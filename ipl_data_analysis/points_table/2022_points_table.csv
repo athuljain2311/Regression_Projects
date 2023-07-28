@@ -1,0 +1,11 @@
+StandingFlag,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+NET,,60,35,GT,Gujarat Titans,https://scores.iplt20.com/ipl/teamlogos/GT.png?v=1,14,10,4,0,0,20,0,2339/278.1,2216/273.5,0.316,1.180,1,1,0,0,"L,L,W,W,L"
+NET,,60,18,RR,Rajasthan Royals,https://scores.iplt20.com/ipl/teamlogos/RR.png,14,9,5,0,0,18,0,2464/279.2,2351/275.5,0.298,1.193,2,1,0,0,"L,W,L,W,W"
+NET,,60,77,LSG,Lucknow Super Giants,https://scores.iplt20.com/ipl/teamlogos/LSG.png,14,9,5,0,0,18,0,2355/279.1,2289/279.4,0.251,1.189,3,1,0,0,"W,W,L,L,W"
+NET,,60,19,RCB,Royal Challengers Bangalore,https://scores.iplt20.com/ipl/teamlogos/RCB.png,14,8,6,0,0,16,0,2268/275.4,2260/266.3,-0.253,1.026,4,1,0,0,"L,W,W,L,W"
+NET,,60,14,DC,Delhi Capitals,https://scores.iplt20.com/ipl/teamlogos/DC.png,14,7,7,0,0,14,0,2341/266.0,2397/278.5,0.204,1.061,5,,0,0,"W,L,W,W,L"
+NET,,60,15,PBKS,Punjab Kings,https://scores.iplt20.com/ipl/teamlogos/PBKS.png,14,7,7,0,0,14,0,2343/270.1,2252/263.3,0.126,0.872,6,,0,0,"W,L,W,L,W"
+NET,,60,16,KKR,Kolkata Knight Riders,https://scores.iplt20.com/ipl/teamlogos/KKR.png,14,6,8,0,0,12,0,2223/268.1,2249/276.1,0.146,0.798,7,,0,0,"W,L,W,W,L"
+NET,,60,20,SRH,Sunrisers Hyderabad,https://scores.iplt20.com/ipl/teamlogos/SRH.png,14,6,8,0,0,12,0,2197/261.3,2416/275.1,-0.379,0.989,8,,0,0,"L,L,L,W,L"
+NET,,60,13,CSK,Chennai Super Kings,https://scores.iplt20.com/ipl/teamlogos/CSK.png,14,4,10,0,0,8,0,2288/280.0,2254/269.1,-0.203,0.945,9,,0,0,"L,W,L,L,L"
+NET,,60,17,MI,Mumbai Indians,https://scores.iplt20.com/ipl/teamlogos/MI.png,14,4,10,0,0,8,0,2217/273.2,2351/272.5,-0.506,0.872,10,,0,0,"W,L,W,L,W"

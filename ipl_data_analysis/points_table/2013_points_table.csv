@@ -1,0 +1,10 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2013,IPL,2013,,CSK,Chennai Super Kings,,16,11,5,0,0,22,0,2461/303.5,2310/305.1,0.53,0,1,1,0,0,LWLWL
+2013,IPL,2013,,MI,Mumbai Indians,,16,11,5,0,0,22,0,2514/318.1,2350/315,0.441,0,2,1,0,0,LWWWW
+2013,IPL,2013,,RR,Rajasthan Royals,,16,10,6,0,0,20,0,2405/310.5,2326/313.4,0.322,0,3,1,0,0,LLWWW
+2013,IPL,2013,,SRH,Sunrisers Hyderabad,,16,10,6,0,0,20,0,2166/308.5,2206/314.4,0.003,0,4,1,0,0,WWLWL
+2013,IPL,2013,,RCB,Royal Challengers Bangalore,,16,9,7,0,0,18,0,2571/301,2451/303.1,0.457,0,5,,0,0,WLLWL
+2013,IPL,2013,,PBKS,Punjab Kings,,16,8,8,0,0,16,0,2428/305.2,2417/312.5,0.226,0,6,,0,0,WWWLL
+2013,IPL,2013,,KKR,Kolkata Knight Riders,,16,6,10,0,0,12,0,2290/313.4,2316/313.1,-0.095,0,7,,0,0,LLWWL
+2013,IPL,2013,,PWI,Pune Warriors India,,16,4,12,0,0,8,0,2262/318.4,2519/310.5,-1.006,0,8,,0,0,WWLLL
+2013,IPL,2013,,DD,Delhi Capitals,,16,3,13,0,0,6,0,2234/314.5,2436/306.4,-0.848,0,9,,0,0,LLLLLL

@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2008,IPL,2008,,RR,Rajasthan Royals,,14,11,3,0,0,22,0,2245/261.1,2153/270.2,0.632,0,1,1,0,0,LWWWW
+2008,IPL,2008,,PBKS,Punjab Kings,,14,10,4,0,0,20,0,2352/259.5,2271/265.5,0.509,0,2,1,0,0,WLWWW
+2008,IPL,2008,,CSK,Chennai Super Kings,,14,8,6,0,0,16,0,2241/264.2,2195/253.1,-0.192,0,3,1,0,0,WLLWL
+2008,IPL,2008,,DD,Delhi Capitals,,14,7,6,0,1,15,0,2001/233.2,2031/246.4,0.342,0,4,1,0,0,WNWLW
+2008,IPL,2008,,MI,Mumbai Indians,,14,7,7,0,0,14,0,2080/249.1,2096/269.3,0.57,0,5,,0,0,WLLLW
+2008,IPL,2008,,KKR,Kolkata Knight Riders,,14,6,7,0,1,13,0,1845/242.4,1718/221.4,-0.147,0,6,,0,0,WNLLL
+2008,IPL,2008,,RCB,Royal Challengers Bangalore,,14,4,10,0,0,8,0,1983/272.4,2205/261.3,-1.16,0,7,,0,0,LWWLL
+2008,IPL,2008,,DEC,Deccan Chargers,,14,2,12,0,0,4,0,2229/270,2307/264.3,-0.467,0,8,,0,0,LLLLL

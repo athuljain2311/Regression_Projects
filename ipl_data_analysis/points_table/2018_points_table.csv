@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2018,IPL,2018,,SRH,Sunrisers Hyderabad,,14,9,5,0,0,18,0,2230/273.3,2193/278.4,0.284,0,1,1,0,0,LLLWW
+2018,IPL,2018,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2488/275.3,2433/277.1,0.253,0,2,1,0,0,WLWLW
+2018,IPL,2018,,KKR,Kolkata Knight Riders,,14,8,6,0,0,16,0,2363/265.1,2425/270,-0.07,0,3,1,0,0,WWWLL
+2018,IPL,2018,,RR,Rajasthan Royals,,14,7,7,0,0,14,0,2130/255.3,2141/249.2,-0.25,0,4,1,0,0,WLWWW
+2018,IPL,2018,,MI,Mumbai Indians,,14,6,8,0,0,12,0,2380/278.4,2282/277.3,0.317,0,5,,0,0,LWLWW
+2018,IPL,2018,,RCB,Royal Challengers Bangalore,,14,6,8,0,0,12,0,2322/264.4,2383/275.4,0.129,0,6,,0,0,LWWWL
+2018,IPL,2018,,PBKS,Punjab Kings,,14,6,8,0,0,12,0,2210/268.4,2259/258.5,-0.502,0,7,,0,0,LLLLL
+2018,IPL,2018,,DD,Delhi Captials,,14,5,9,0,0,10,0,2297/258,2304/252.3,-0.222,0,8,,0,0,WWLLL

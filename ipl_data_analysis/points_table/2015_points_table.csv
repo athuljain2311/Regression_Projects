@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2015,IPL,2015,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2262/273.3,2073/274.1,0.709,0,1,1,0,0,WLWLW
+2015,IPL,2015,,MI,Mumbai Indians,,14,8,6,0,0,16,0,2345/272.4,2371/274.2,-0.043,0,2,1,0,0,WWLWW
+2015,IPL,2015,,RCB,Royal Challengers Bangalore,,14,7,5,0,2,16,0,1790/191.1,1693/203.2,1.037,0,3,1,0,0,NWLWW
+2015,IPL,2015,,RR,Rajasthan Royals,,14,7,5,0,2,16,0,2028/237.3,2002/236.1,0.062,0,4,1,0,0,WLLWL
+2015,IPL,2015,,KKR,Kolkata Knight Riders,,14,7,6,0,1,15,0,2044/236.1,2022/240.4,0.253,0,5,,0,0,LLWWW
+2015,IPL,2015,,SRH,Sunrisers Hyderabad,,14,7,7,0,0,14,0,2096/255.2,2126/251.4,-0.239,0,6,,0,0,LLWWW
+2015,IPL,2015,,DD,Delhi Capitals,,14,5,8,0,1,11,0,1981/250.2,1976/248.1,-0.049,0,7,,0,0,NWLLL
+2015,IPL,2015,,PBKS,Punjab Kings,,14,3,11,0,0,6,0,2003/270,2286/258.1,-1.436,0,8,,0,0,LWLLL

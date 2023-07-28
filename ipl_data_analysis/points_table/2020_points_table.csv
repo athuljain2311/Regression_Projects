@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2020,IPL,2020,,MI,Mumbai Indians,,14,9,5,0,0,18,0,2378/262.2,2187/274.5,1.107,0,1,1,0,0,LWWLW
+2020,IPL,2020,,DC,Delhi Capitals,,14,8,6,0,0,16,0,2289/278.5,2271/273,-0.109,0,2,1,0,0,WLLLL
+2020,IPL,2020,,SRH,Sunrisers Hyderabad,,14,7,7,0,0,14,0,2225/269.3,2125/277.5,0.608,0,3,1,0,0,WWWLW
+2020,IPL,2020,,RCB,Royal Challengers Bangalore,,14,7,7,0,0,14,0,2147/272.2,2183/271,-0.172,0,4,1,0,0,LLLLW
+2020,IPL,2020,,KKR,Kolkata Knight Riders,,14,7,7,0,0,14,0,2219/278,2206/269.1,-0.214,0,5,,0,0,WLLWL
+2020,IPL,2020,,PBKS,Punjab Kings,,14,6,8,0,0,12,0,2335/277.5,2343/273.3,-0.162,0,6,,0,0,LLWWW
+2020,IPL,2020,,CSK,Chennai Super Kings,,14,6,8,0,0,12,0,2191/274.3,2275/269.4,-0.455,0,7,,0,0,WWWLL
+2020,IPL,2020,,RR,Rajasthan Royals,,14,6,8,0,0,12,0,2288/272.4,2482/277,-0.569,0,8,,0,0,LWWLW

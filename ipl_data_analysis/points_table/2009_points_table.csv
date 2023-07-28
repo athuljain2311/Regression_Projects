@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2009,IPL,2009,,DD,Delhi Capitals,,14,10,4,0,0,20,0,1978/255.2,1953/262.4,0.311,0,1,1,0,0,WLWLW
+2009,IPL,2009,,CSK,Chennai Super Kings,,14,8,5,0,1,17,0,2086/255.3,1855/257.1,0.951,0,2,1,0,0,WLWLW
+2009,IPL,2009,,RCB,Royal Challengers Bangalore,,14,8,6,0,0,16,0,1994/276,2027/273.2,-0.191,0,3,1,0,0,WWWWL
+2009,IPL,2009,,DEC,Deccan Chargers,,14,7,7,0,0,14,0,2111/272.4,2097/278.1,0.203,0,4,1,0,0,LLWLW
+2009,IPL,2009,,PBKS,Punjab Kings,,14,7,7,0,0,14,0,1787/251.2,1887/248.3,-0.483,0,5,,0,0,LWWLW
+2009,IPL,2009,,RR,Rajasthan Royals,,14,6,7,0,1,13,0,1688/253.1,1810/257.5,-0.352,0,6,,0,0,LLWLL
+2009,IPL,2009,,MI,Mumbai Indians,,14,5,8,0,1,11,0,1897/256.2,1802/253.4,0.297,0,7,,0,0,LLLWW
+2009,IPL,2009,,KKR,Kolkata Knight Riders,,14,3,10,0,1,7,0,1757/248.5,1867/237.5,-0.789,0,8,,0,0,WWLLL

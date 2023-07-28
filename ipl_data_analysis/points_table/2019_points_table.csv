@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2019,IPL,2019,,MI,Mumbai Indians,,14,9,5,0,0,18,0,2380/275.1,2282/277.2,0.421,0,1,1,0,0,WWLWL
+2019,IPL,2019,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2043/274.1,2012/274.5,0.131,0,2,1,0,0,LWLWL
+2019,IPL,2019,,DC,Delhi Capitals,,14,9,5,0,0,18,0,2207/272.5,2238/278.1,0.044,0,3,1,0,0,WLWWW
+2019,IPL,2019,,SRH,Sunrisers Hyderabad,,14,6,8,0,0,12,0,2288/269.2,2200/277.5,0.577,0,4,1,0,0,LLWLL
+2019,IPL,2019,,KKR,Kolkata Knight Riders,,14,6,8,0,0,12,0,2466/270.4,2419/266.2,0.028,0,5,,0,0,LWWLL
+2019,IPL,2019,,PBKS,Punjab Kings,,14,6,8,0,0,12,0,2429/276.3,2503/277,-0.251,0,6,,0,0,WLLLL
+2019,IPL,2019,,RR,Rajasthan Royals,,14,5,8,0,1,11,0,2153/257,2192/248.2,-0.449,0,7,,0,0,LNWWL
+2019,IPL,2019,,RCB,Royal Challengers Bangalore,,14,5,8,0,1,11,0,2146/258.4,2266/254.3,-0.607,0,8,,0,0,WNLWW

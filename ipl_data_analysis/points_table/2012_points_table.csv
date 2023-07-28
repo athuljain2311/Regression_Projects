@@ -1,0 +1,10 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2012,IPL,2012,,DD,Delhi Capitals,,16,11,5,0,0,22,0,2365/283.5,2361/306,0.617,0,1,1,0,0,WLWLW
+2012,IPL,2012,,KKR,Kolkata Knight Riders,,16,10,5,0,1,21,0,2150/285.1,2032/291.1,0.561,0,2,1,0,0,WWLLW
+2012,IPL,2012,,MI,Mumbai Indians,,16,10,6,0,0,20,0,2313/312.3,2343/312.2,-0.1,0,3,1,0,0,WLWWL
+2012,IPL,2012,,CSK,Chennai Super Kings,,16,8,7,0,1,17,0,2232/293.3,2144/285.4,0.1,0,4,1,0,0,LWWWL
+2012,IPL,2012,,RCB,Royal Challengers Bangalore,,16,8,7,0,1,17,0,2472/296.2,2505/299.3,-0.022,0,5,,0,0,LWLWW
+2012,IPL,2012,,PBKS,Punjab Kings,,16,8,8,0,0,16,0,2390/313.3,2455/313.1,-0.216,0,6,,0,0,LWLWW
+2012,IPL,2012,,RR,Rajasthan Royals,,16,7,9,0,0,14,0,2516/316,2402/309.3,0.201,0,7,,0,0,LLWLW
+2012,IPL,2012,,DEC,Deccan Chargers,,16,4,11,0,1,9,0,2312/298.4,2405/291.3,-0.509,0,8,,0,0,WWLLL
+2012,IPL,2012,,PWI,Pune Warriors India,,16,4,12,0,0,8,0,2321/319.2,2424/310,-0.551,0,9,,0,0,LLLLLL

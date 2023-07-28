@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2010,IPL,2010,,MI,Mumbai Indians,,14,10,4,0,0,20,0,2408/277,2100/276,1.084,0,1,1,0,0,LWWWL
+2010,IPL,2010,,DEC,Deccan Chargers,,14,8,6,0,0,16,0,2188/277.4,2254/275.4,-0.297,0,2,1,0,0,WWWWW
+2010,IPL,2010,,CSK,Chennai Super Kings,,14,7,7,0,0,14,0,2285/271.1,2257/276.5,0.274,0,3,1,0,0,WLWLW
+2010,IPL,2010,,RCB,Royal Challengers Bangalore,,14,7,7,0,0,14,0,2166/260.4,2245/277.3,0.219,0,4,1,0,0,LWLWL
+2010,IPL,2010,,DD,Delhi Capitals,,14,7,7,0,0,14,0,2155/275.4,2166/277.5,0.021,0,5,,0,0,LWLLL
+2010,IPL,2010,,KKR,Kolkata Knight Riders,,14,7,7,0,0,14,0,2144/273,2192/267.3,-0.341,0,6,,0,0,WWLLW
+2010,IPL,2010,,RR,Rajasthan Royals,,14,6,8,0,0,12,0,2179/270.4,2224/259.4,-0.514,0,7,,0,0,LLLWW
+2010,IPL,2010,,PBKS,Punjab Kings,,14,4,10,0,0,8,0,2278/276.2,2365/271.1,-0.478,0,8,,0,0,LLWWL

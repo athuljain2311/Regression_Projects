@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2017,IPL,2017,,MI,Mumbai Indians,,14,10,4,0,0,20,0,2407/272.1,2242/278.1,0.784,0,1,1,0,0,WLLWW
+2017,IPL,2017,,RPS,Rising Pune Supergiant,,14,9,5,0,0,18,0,2180/271,2165/275.1,0.176,0,2,1,0,0,WLWWW
+2017,IPL,2017,,SRH,Sunrisers Hyderabad,,14,8,5,0,1,17,0,2221/252,2118/257.5,0.599,0,3,1,0,0,WWLLW
+2017,IPL,2017,,KKR,Kolkata Knight Riders,,14,8,6,0,0,16,0,2329/260.5,2300/277.3,0.641,0,4,1,0,0,LLWLL
+2017,IPL,2017,,PBKS,Punjab Kings,,14,7,7,0,0,14,0,2207/261.2,2229/263.4,-0.009,0,5,,0,0,LWWLW
+2017,IPL,2017,,DD,Delhi Capitals,,14,6,8,0,0,12,0,2219/276.2,2255/264,-0.512,0,6,,0,0,LWWLW
+2017,IPL,2017,,GL,Gujarat Lions,,14,4,10,0,0,8,0,2406/269.5,2472/265,-0.412,0,7,,0,0,LLWLL
+2017,IPL,2017,,RCB,Royal Challengers Bangalore,,14,3,10,0,1,7,0,1845/260,2033/242.1,-1.299,0,8,,0,0,WLLLL

@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2016,IPL,2016,,GL,Gujarat Lions,,14,9,5,0,0,18,0,2130/264.3,2285/271.1,-0.374,0,1,1,0,0,WWLWL
+2016,IPL,2016,,RCB,Royal Challengers Bangalore,,14,8,6,0,0,16,0,2613/270.2,2345/268.3,0.932,0,2,1,0,0,WWWWL
+2016,IPL,2016,,SRH,Sunrisers Hyderabad,,14,8,6,0,0,16,0,2082/259.5,2078/267.3,0.245,0,3,1,0,0,LLWLW
+2016,IPL,2016,,KKR,Kolkata Knight Riders,,14,8,6,0,0,16,0,2123/253.2,2121/256.2,0.106,0,4,1,0,0,WLLWL
+2016,IPL,2016,,MI,Mumbai Indians,,14,7,7,0,0,14,0,2194/272.2,2190/267,-0.146,0,5,,0,0,LWLWL
+2016,IPL,2016,,DD,Delhi Capitals,,14,7,7,0,0,14,0,2040/259.1,2107/262.3,-0.155,0,6,,0,0,LWLLW
+2016,IPL,2016,,RPS,Rising Pune Supergiant,,14,5,9,0,0,10,0,2025/244.5,1991/241.1,0.015,0,7,,0,0,WWLLL
+2016,IPL,2016,,PBKS,Punjab Kings,,14,4,10,0,0,8,0,2134/269.4,2224/259.5,-0.646,0,8,,0,0,LLLWL

@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2014,IPL,2014,,PBKS,Punjab Kings,,14,11,3,0,0,22,0,2427/268.3,2229/276.1,0.968,0,1,1,0,0,WWLWW
+2014,IPL,2014,,KKR,Kolkata Knight Riders,,14,9,5,0,0,18,0,2125/264,2110/276.3,0.418,0,2,1,0,0,WWWWW
+2014,IPL,2014,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2272/272,2178/273.2,0.385,0,3,1,0,0,WLLLW
+2014,IPL,2014,,MI,Mumbai Indians,,14,7,7,0,0,14,0,2180/271.3,2170/273.3,0.095,0,4,1,0,0,WWWWL
+2014,IPL,2014,,RR,Rajasthan Royals,,14,7,7,0,0,14,0,2155/269.5,2164/273,0.06,0,5,,0,0,LLLWL
+2014,IPL,2014,,SRH,Sunrisers Hyderabad,,14,6,8,0,0,12,0,2102/263.4,2136/255.1,-0.399,0,6,,0,0,LWWLL
+2014,IPL,2014,,RCB,Royal Challengers Bangalore,,14,5,9,0,0,10,0,2093/273.5,2163/268,-0.428,0,7,,0,0,LLLWW
+2014,IPL,2014,,DD,Delhi Capitals,,14,2,12,0,0,4,0,1980/263.2,2184/251,-1.182,0,8,,0,0,LLLLLL

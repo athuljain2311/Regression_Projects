@@ -1,0 +1,11 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2011,IPL,2011,,RCB,Royal Challengers Bangalore,,14,9,4,0,1,19,0,1962/237,2000/251.3,0.326,0,1,1,0,0,WLWWW
+2011,IPL,2011,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2118/265.1,1978/262.1,0.443,0,2,1,0,0,LWWWL
+2011,IPL,2011,,MI,Mumbai Indians,,14,9,5,0,0,18,0,1998/275.2,1951/270.2,0.04,0,3,1,0,0,WLLLW
+2011,IPL,2011,,KKR,Kolkata Knight Riders,,14,8,6,0,0,16,0,1888/249.2,1861/260.4,0.433,0,4,1,0,0,LWLWL
+2011,IPL,2011,,PBKS,Punjab Kings,,14,7,7,0,0,14,0,2224/275.4,2173/267.4,-0.051,0,5,,0,0,LWWWW
+2011,IPL,2011,,RR,Rajasthan Royals,,14,6,7,0,1,13,0,1687/242.2,1801/235.2,-0.691,0,6,,0,0,WLLLL
+2011,IPL,2011,,DEC,Deccan Chargers,,14,6,8,0,0,12,0,2140/279.2,2037/273.5,0.222,0,7,,0,0,WWWLL
+2011,IPL,2011,,KTK,Kochi Tuskers Kerala,,14,6,8,0,0,12,0,1901/256.2,1989/260.4,-0.214,0,8,,0,0,LWLLW
+2011,IPL,2011,,PWI,Pune Warriors India,,14,4,9,0,1,9,0,1775/247.3,1858/254.2,-0.134,0,9,,0,0,NLLWW
+2011,IPL,2011,,DD,Delhi Capitals,,14,4,9,0,1,9,0,2031/258.2,2076/249.5,-0.448,0,10,,0,0,NLLLW

@@ -1,0 +1,9 @@
+IPLYear,Category,CompetitionID,TeamID,TeamCode,TeamName,TeamLogo,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,Quotient,OrderNo,IsQualified,LeadBy,Deficit,Performance
+2021,IPL,2021,,DC,Delhi Capitals,,14,10,4,0,0,20,0,2180/267,2136/278,0.481,0,1,1,0,0,LWWLW
+2021,IPL,2021,,CSK,Chennai Super Kings,,14,9,5,0,0,18,0,2368/272,2218/268.5,0.455,0,2,1,0,0,LLLWW
+2021,IPL,2021,,RCB,Royal Challengers Bangalore,,14,9,5,0,0,18,0,2165/273.4,2159/268.1,-0.14,0,3,1,0,0,WLWWW
+2021,IPL,2021,,KKR,Kolkata Knight Riders,,14,7,7,0,0,14,0,2119/259.5,2080/274.5,0.587,0,4,1,0,0,WWLWL
+2021,IPL,2021,,MI,Mumbai Indians,,14,7,7,0,0,14,0,2117/265.5,2128/271.1,0.116,0,5,,0,0,WWLWL
+2021,IPL,2021,,PBKS,Punjab Kings,,14,6,8,0,0,12,0,2150/270.1,2117/266,-0.001,0,6,,0,0,WLWLW
+2021,IPL,2021,,RR,Rajasthan Royals,,14,5,9,0,0,10,0,2196/276,2318/259,-0.993,0,7,,0,0,LLWLL
+2021,IPL,2021,,SRH,Sunrisers Hyderabad,,14,3,11,0,0,6,0,2077/277.1,2216/275.4,-0.545,0,8,,0,0,LWLLW
