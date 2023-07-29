@@ -1,0 +1,158 @@
+StrikerName,PlayerId,Matches,PlayerDOB,TeamCode,TeamName,Innings,TotalRuns,Balls,StrikeRate,Fours,Sixes,Outs,NotOuts,FiftyPlusRuns,Centuries,HighestScore,BattingAverage,Nation,BattingStyle,Nationality,RightHandedBat
+Chris Gayle,126,15,21-9-1979,RCB,Royal Challengers Bangalore,14,733,456,160.74,46,59,12,2,7,1,128*,61.08,West Indies,lhb,Overseas,False
+Gautam Gambhir,0,17,14-10-1981,KKR,Kolkata Knight Riders,17,590,411,143.55,64,17,15,2,6,0,93,39.33,India,lhb,Indian,False
+Shikhar Dhawan,11,15,5-12-1985,DEC,Deccan Chargers,15,569,439,129.61,58,18,14,1,5,0,84,40.64,India,lhb,Indian,False
+Ajinkya Rahane,44,16,6-6-1988,RR,Rajasthan Royals,16,560,433,129.33,73,10,14,2,3,1,103*,40.0,India,rhb,Indian,True
+Virender Sehwag,461,16,20-10-1978,DC,Delhi Capitals,16,495,307,161.23,57,19,15,1,5,0,87*,33.0,India,rhb,Indian,True
+Cameron White,0,13,18-8-1983,DEC,Deccan Chargers,13,479,320,149.68,41,20,11,2,5,0,78,43.54,Australia,rhb,Overseas,True
+Rahul Dravid,0,16,11-1-1973,RR,Rajasthan Royals,16,462,412,112.13,63,4,16,0,2,0,58,28.87,India,rhb,Indian,True
+Suresh Raina,106,19,27-11-1986,CSK,Chennai Super Kings,18,441,325,135.69,36,19,17,1,1,0,73,25.94,India,lhb,Indian,False
+Rohit Sharma,6,17,30-4-1987,MI,Mumbai Indians,16,433,342,126.6,39,18,14,2,3,1,109*,30.92,India,rhb,Indian,True
+Mandeep Singh,132,16,18-12-1991,PBKS,Punjab Kings,16,432,342,126.31,53,7,16,0,2,0,75,27.0,India,rhb,Indian,True
+Jacques Kallis,0,17,16-10-1975,KKR,Kolkata Knight Riders,17,409,384,106.51,34,10,16,1,2,0,79,25.56,South Africa,rhb,Overseas,True
+Robin Uthappa,153,16,11-11-1985,PWI,Pune Warriors India,16,405,343,118.07,38,10,15,1,2,0,69,27.0,India,rhb,Indian,True
+Faf du Plessis,94,13,13-7-1984,CSK,Chennai Super Kings,12,398,304,130.92,29,17,12,0,3,0,73,33.16,South Africa,rhb,Overseas,True
+David Hussey,0,16,15-7-1977,PBKS,Punjab Kings,15,396,305,129.83,28,17,12,3,2,0,68*,33.0,Australia,rhb,Overseas,True
+Dwayne Bravo,93,19,7-10-1983,CSK,Chennai Super Kings,16,371,264,140.53,20,20,8,8,0,0,48,46.37,West Indies,rhb,Overseas,True
+Virat Kohli,2,16,5-11-1988,RCB,Royal Challengers Bangalore,15,364,326,111.65,33,9,13,2,2,0,73*,28.0,India,rhb,Indian,True
+Steve Smith,0,15,2-6-1989,PWI,Pune Warriors India,14,362,267,135.58,24,14,9,5,0,0,47*,40.22,Australia,rhb,Overseas,True
+MS Dhoni,57,19,7-7-1981,CSK,Chennai Super Kings,17,358,278,128.77,26,9,12,5,1,0,51*,29.83,India,rhb,Indian,True
+Owais Shah,0,13,22-10-1978,RR,Rajasthan Royals,13,340,256,132.81,24,16,9,4,3,0,76,37.77,England,rhb,Overseas,True
+Shaun Marsh,41,13,9-7-1983,PBKS,Punjab Kings,13,336,280,120.0,39,7,11,2,2,0,68*,30.54,Australia,lhb,Overseas,False
+Murali Vijay,53,14,1-4-1984,CSK,Chennai Super Kings,14,336,267,125.84,39,10,13,1,0,1,113,25.84,India,rhb,Indian,True
+Mahela Jayawardena,0,16,27-5-1977,DC,Delhi Capitals,15,335,298,112.41,39,3,12,3,3,0,56*,27.91,Sri Lanka,rhb,Overseas,True
+Ambati Rayudu,60,17,23-9-1985,MI,Mumbai Indians,15,333,252,132.14,21,14,9,6,2,0,81*,37.0,India,rhb,Indian,True
+Sachin Tendulkar,233,13,24-4-1973,MI,Mumbai Indians,13,324,283,114.48,39,4,11,2,2,0,74,29.45,India,rhb,Indian,True
+AB de Villiers,198,16,17-2-1984,RCB,Royal Challengers Bangalore,13,319,198,161.11,26,15,8,5,3,0,64*,39.87,South Africa,rhb,Overseas,True
+Kevin Pietersen,0,8,27-6-1980,DC,Delhi Capitals,8,305,207,147.34,22,20,5,3,1,1,103*,61.0,England,rhb,Overseas,True
+Brendon McCullum,0,12,27-9-1981,KKR,Kolkata Knight Riders,12,289,283,102.12,37,3,12,0,1,0,56,24.08,New Zealand,rhb,Overseas,True
+Tillakaratne Dilshan,484,10,14-10-1976,RCB,Royal Challengers Bangalore,9,285,261,109.19,33,5,8,1,3,0,76*,35.62,Sri Lanka,rhb,Overseas,True
+Sourav Ganguly,0,15,8-7-1972,PWI,Pune Warriors India,15,268,271,98.89,30,4,15,0,0,0,45,17.86,India,lhb,Indian,False
+Michael Hussey,0,8,27-5-1975,CSK,Chennai Super Kings,8,261,236,110.59,28,8,8,0,2,0,56,32.62,Australia,lhb,Overseas,False
+Manoj Tiwary,0,16,14-11-1985,KKR,Kolkata Knight Riders,15,260,246,105.69,21,3,10,5,1,0,59,26.0,India,rhb,Indian,True
+David Warner,214,8,27-10-1986,DC,Delhi Capitals,8,256,156,164.1,28,14,7,1,1,1,109*,36.57,Australia,lhb,Overseas,False
+Jesse Ryder,0,11,6-8-1984,PWI,Pune Warriors India,11,256,212,120.75,23,8,10,1,2,0,86,25.6,New Zealand,lhb,Overseas,False
+Shane Watson,104,7,17-6-1981,RR,Rajasthan Royals,7,255,168,151.78,26,14,6,1,2,0,90*,42.5,Australia,rhb,Overseas,True
+Naman Ojha,0,18,20-7-1983,DC,Delhi Capitals,16,255,224,113.83,21,13,11,5,1,0,64*,23.18,India,rhb,Indian,True
+Brad Hodge,449,12,29-12-1974,RR,Rajasthan Royals,12,245,175,140.0,18,9,8,4,0,0,48*,30.62,Australia,rhb,Overseas,True
+JP Duminy,0,9,14-4-1984,DEC,Deccan Chargers,9,244,190,128.42,13,11,3,6,2,0,74,81.33,South Africa,lhb,Overseas,False
+Dinesh Karthik,13,17,1-6-1985,MI,Mumbai Indians,14,238,213,111.73,30,2,13,1,0,0,44,18.3,India,rhb,Indian,True
+Mayank Agarwal,55,16,16-2-1991,RCB,Royal Challengers Bangalore,12,225,158,142.4,19,15,11,1,1,0,64*,20.45,India,rhb,Indian,True
+James Franklin,0,12,7-11-1980,MI,Mumbai Indians,11,220,223,98.65,15,6,9,2,1,0,79,24.44,New Zealand,lhb,Overseas,False
+Kieron Pollard,166,14,12-5-1987,MI,Mumbai Indians,11,220,159,138.36,15,14,9,2,2,0,64,24.44,West Indies,rhb,Overseas,True
+Ashok Menaria,0,15,29-10-1990,RR,Rajasthan Royals,12,220,202,108.91,14,8,11,1,0,0,40,20.0,India,lhb,Indian,False
+Manvinder Bisla,0,7,27-12-1984,KKR,Kolkata Knight Riders,7,213,160,133.12,16,10,7,0,1,0,89,30.42,India,rhb,Indian,True
+Kumar Sangakkara,0,12,27-10-1977,DEC,Deccan Chargers,12,200,184,108.69,21,4,11,1,1,0,82,18.18,Sri Lanka,lhb,Overseas,False
+Ross Taylor,78,12,8-3-1984,DC,Delhi Capitals,12,197,171,115.2,12,7,10,2,1,0,55,19.7,New Zealand,rhb,Overseas,True
+Subramaniam Badrinath,0,15,30-8-1980,CSK,Chennai Super Kings,9,196,181,108.28,23,2,7,2,1,0,57,28.0,India,rhb,Indian,True
+Parthiv Patel,48,14,9-3-1985,DEC,Deccan Chargers,13,194,165,117.57,19,4,11,2,0,0,45,17.63,India,lhb,Indian,False
+Yusuf Pathan,226,17,17-11-1982,KKR,Kolkata Knight Riders,16,194,169,114.79,10,7,10,6,0,0,40*,19.4,India,rhb,Indian,True
+Saurabh Tiwary,540,15,30-12-1989,RCB,Royal Challengers Bangalore,11,191,170,112.35,9,8,8,3,0,0,36*,23.87,India,lhb,Indian,False
+Ravindra Jadeja,46,19,6-12-1988,CSK,Chennai Super Kings,14,191,151,126.49,13,9,12,2,0,0,48,15.91,India,lhb,Indian,False
+Azhar Mahmood,0,11,28-2-1975,PBKS,Punjab Kings,10,186,142,130.98,16,8,8,2,0,0,36,23.25,Pakistan,rhb,Overseas,True
+Irfan Pathan,458,17,27-10-1984,DC,Delhi Capitals,12,176,126,139.68,14,6,7,5,0,0,42*,25.14,India,lhb,Indian,False
+Adam Gilchrist,0,7,14-11-1971,PBKS,Punjab Kings,7,172,143,120.27,21,4,5,2,1,0,64*,34.4,Australia,lhb,Overseas,False
+Dwayne Smith,0,7,12-4-1983,MI,Mumbai Indians,6,157,98,160.2,18,7,4,2,1,0,87*,39.25,West Indies,rhb,Overseas,True
+Yogesh Nagar,0,13,6-1-1990,DC,Delhi Capitals,8,152,133,114.28,13,3,5,3,0,0,43*,30.4,India,rhb,Indian,True
+Dan Christian,0,7,4-5-1983,DEC,Deccan Chargers,7,145,118,122.88,8,6,5,2,0,0,39,29.0,Australia,rhb,Overseas,True
+Manish Pandey,16,10,10-9-1989,PWI,Pune Warriors India,9,143,112,127.67,12,6,7,2,1,0,80*,20.42,India,rhb,Indian,True
+Nitin Saini,0,10,28-10-1988,PBKS,Punjab Kings,10,140,141,99.29,16,0,10,0,1,0,50,14.0,India,rhb,Indian,True
+Venugopal Rao,0,10,26-2-1982,DC,Delhi Capitals,7,132,126,104.76,8,5,6,1,0,0,36,22.0,India,rhb,Indian,True
+Angelo Mathews,275,9,2-6-1987,PWI,Pune Warriors India,8,127,108,117.59,5,4,7,1,0,0,35,18.14,Sri Lanka,rhb,Overseas,True
+Debabrata Das,0,15,22-9-1986,KKR,Kolkata Knight Riders,10,126,93,135.48,9,6,3,7,0,0,35*,42.0,India,rhb,Indian,True
+Marlon Samuels,0,8,5-2-1981,PWI,Pune Warriors India,8,124,123,100.81,7,5,7,1,0,0,46,17.71,West Indies,rhb,Overseas,True
+Mithun Manhas,0,10,12-10-1979,PWI,Pune Warriors India,7,120,96,125.0,10,4,4,3,0,0,42*,30.0,India,rhb,Indian,True
+Daniel Harris,0,4,31-12-1979,DEC,Deccan Chargers,4,111,101,109.9,11,5,4,0,0,0,47,27.75,Australia,rhb,Overseas,True
+Harbhajan Singh,95,17,3-7-1980,MI,Mumbai Indians,11,108,80,135.0,14,3,9,2,0,0,33,12.0,India,rhb,Indian,True
+Albie Morkel,481,16,10-6-1981,CSK,Chennai Super Kings,12,107,68,157.35,5,6,7,5,0,0,28,15.28,South Africa,lhb,Overseas,False
+Piyush Chawla,149,16,24-12-1988,PBKS,Punjab Kings,12,106,88,120.45,9,4,8,4,0,0,21*,13.25,India,lhb,Indian,False
+David Miller,128,6,10-6-1989,PBKS,Punjab Kings,6,98,75,130.66,6,4,3,3,0,0,34*,32.66,South Africa,lhb,Overseas,False
+Michael Clarke,0,6,2-4-1981,PWI,Pune Warriors India,6,98,93,105.37,12,0,6,0,0,0,41,16.33,Australia,rhb,Overseas,True
+Shakib Al Hasan,222,8,24-3-1987,KKR,Kolkata Knight Riders,7,91,74,122.97,6,3,6,1,0,0,42,15.16,Bangladesh,lhb,Overseas,False
+Stuart Binny,195,8,3-6-1984,RR,Rajasthan Royals,6,90,67,134.32,9,3,4,2,0,0,30,22.5,India,rhb,Indian,True
+Anustup Majumdar,0,4,30-4-1984,PWI,Pune Warriors India,4,87,76,114.47,7,2,4,0,0,0,31,21.75,India,rhb,Indian,True
+Gurkeerat Mann Singh,201,5,29-6-1990,PBKS,Punjab Kings,4,86,52,165.38,12,2,3,1,0,0,29*,28.66,India,rhb,Indian,True
+Richard Levi,0,6,14-1-1988,MI,Mumbai Indians,6,83,73,113.69,10,4,6,0,1,0,50,13.83,South Africa,rhb,Overseas,True
+Herschelle Gibbs,471,3,23-2-1974,MI,Mumbai Indians,3,81,88,92.04,8,2,2,1,1,0,66*,40.5,South Africa,rhb,Overseas,True
+Laxmi Ratan Shukla,0,11,6-5-1981,KKR,Kolkata Knight Riders,8,75,57,131.57,4,5,6,2,0,0,26,12.5,India,rhb,Indian,True
+Akshath Reddy,0,5,11-2-1991,DEC,Deccan Chargers,3,73,59,123.72,6,2,3,0,0,0,42,24.33,India,rhb,Indian,True
+Bipul Sharma,0,5,28-9-1983,PBKS,Punjab Kings,4,72,47,153.19,6,3,3,1,0,0,35*,24.0,India,lhb,Indian,False
+Shreevats Goswami,223,11,18-5-1989,RR,Rajasthan Royals,6,69,67,102.98,4,1,5,1,0,0,24,13.8,India,lhb,Indian,False
+Vinay Kumar,0,15,12-2-1984,RCB,Royal Challengers Bangalore,7,68,62,109.67,3,2,5,2,0,0,25,13.6,India,rhb,Indian,True
+Siddharth Chitnis,0,6,6-5-1987,PBKS,Punjab Kings,4,66,62,106.45,7,1,3,1,0,0,38,22.0,India,rhb,Indian,True
+Johan Botha,0,11,2-5-1982,RR,Rajasthan Royals,7,58,54,107.4,4,1,4,3,0,0,14*,14.5,South Africa,rhb,Overseas,True
+Aaron Finch,3,2,17-11-1986,DC,Delhi Capitals,2,55,51,107.84,8,0,2,0,0,0,30,27.5,Australia,rhb,Overseas,True
+Lasith Malinga,167,14,28-8-1983,MI,Mumbai Indians,6,55,53,103.77,4,3,6,0,0,0,17,9.16,Sri Lanka,rhb,Overseas,True
+Callum Ferguson,0,4,21-11-1984,PWI,Pune Warriors India,4,50,63,79.36,3,0,4,0,0,0,23,12.5,Australia,rhb,Overseas,True
+Andre Russell,141,4,29-4-1988,DC,Delhi Capitals,2,47,26,180.76,3,3,2,0,0,0,31,23.5,West Indies,rhb,Overseas,True
+Andrew McDonald,0,4,5-6-1981,RCB,Royal Challengers Bangalore,3,47,35,134.28,6,2,2,1,0,0,30,23.5,Australia,rhb,Overseas,True
+Abhishek Nayar,0,4,8-10-1983,PBKS,Punjab Kings,4,45,49,91.83,2,1,3,1,0,0,24,15.0,India,lhb,Indian,False
+Brett Lee,300,10,8-11-1976,KKR,Kolkata Knight Riders,3,42,20,210.0,2,4,2,1,0,0,25,21.0,Australia,rhb,Overseas,True
+Bhuvneshwar Kumar,15,11,5-2-1990,PWI,Pune Warriors India,9,40,40,100.0,4,0,3,6,0,0,11*,13.33,India,rhb,Indian,True
+Kevon Cooper,0,6,16-2-1989,RR,Rajasthan Royals,4,38,20,190.0,3,3,2,2,0,0,14,19.0,West Indies,rhb,Overseas,True
+Bharat Chipli,0,5,27-1-1983,DEC,Deccan Chargers,4,37,35,105.71,3,2,3,1,0,0,25*,12.33,India,rhb,Indian,True
+Unmukt Chand,0,2,26-3-1993,DC,Delhi Capitals,2,36,34,105.88,2,3,2,0,0,0,18,18.0,United States of America,rhb,Overseas,True
+Pawan Negi,208,8,6-1-1993,DC,Delhi Capitals,4,36,29,124.13,4,1,2,2,0,0,14,18.0,India,lhb,Indian,False
+Ashish Reddy,0,9,24-2-1991,DEC,Deccan Chargers,6,35,29,120.68,3,1,4,2,0,0,10*,8.75,India,rhb,Indian,True
+Praveen Kumar,0,16,2-10-1986,PBKS,Punjab Kings,7,35,30,116.66,2,1,3,4,0,0,10,11.66,India,rhb,Indian,True
+Rajat Bhatia,0,17,22-10-1979,KKR,Kolkata Knight Riders,6,35,28,125.0,4,0,3,3,0,0,12,11.66,India,rhb,Indian,True
+Robin Peterson,0,5,4-8-1979,MI,Mumbai Indians,5,32,30,106.66,3,1,3,2,0,0,16*,10.66,South Africa,lhb,Overseas,False
+Daniel Vettori,0,9,27-1-1979,RCB,Royal Challengers Bangalore,6,31,26,119.23,3,1,4,2,0,0,20,7.75,New Zealand,lhb,Overseas,False
+Paul Valthaty,0,6,7-12-1983,PBKS,Punjab Kings,6,30,51,58.82,4,0,6,0,0,0,13,5.0,India,rhb,Indian,True
+Murali Kartik,0,11,11-9-1976,PWI,Pune Warriors India,4,26,21,123.8,1,1,0,4,0,0,14*,0.0,India,lhb,Indian,False
+Dishant Yagnik,0,5,22-6-1983,RR,Rajasthan Royals,3,25,13,192.3,5,0,1,2,0,0,10*,25.0,India,lhb,Indian,False
+Abhishek Jhunjhunwala,0,5,1-12-1982,DEC,Deccan Chargers,3,24,26,92.3,1,1,2,1,0,0,19,12.0,India,rhb,Indian,True
+Ryan ten Doeschate,665,3,30-6-1980,KKR,Kolkata Knight Riders,3,21,21,100.0,1,1,2,1,0,0,11,10.5,Netherlands,rhb,Overseas,True
+Alfonso Thomas,0,4,9-2-1977,PWI,Pune Warriors India,2,19,15,126.66,1,1,2,0,0,0,12,9.5,South Africa,rhb,Overseas,True
+Srikkanth Anirudha,0,4,14-4-1987,CSK,Chennai Super Kings,2,19,7,271.42,1,2,0,2,0,0,18*,0.0,India,rhb,Indian,True
+Wayne Parnell,829,6,30-7-1989,PWI,Pune Warriors India,5,19,27,70.37,2,0,4,1,0,0,11,4.75,South Africa,lhb,Overseas,False
+Dale Steyn,230,12,27-6-1983,DEC,Deccan Chargers,6,19,21,90.47,0,1,5,1,0,0,7,3.8,South Africa,rhb,Overseas,True
+Ryan Harris,0,5,11-10-1979,PBKS,Punjab Kings,2,18,11,163.63,1,1,1,1,0,0,15*,18.0,Australia,rhb,Overseas,True
+Ankit Sharma,0,9,20-4-1991,DEC,Deccan Chargers,4,18,13,138.46,0,2,3,1,0,0,15,6.0,India,lhb,Indian,False
+Ravichandran Ashwin,45,19,17-9-1986,CSK,Chennai Super Kings,5,18,15,120.0,2,0,3,2,0,0,8,6.0,India,rhb,Indian,True
+Cheteshwar Pujara,49,3,25-1-1988,RCB,Royal Challengers Bangalore,3,17,22,77.27,1,1,3,0,0,0,11,5.66,India,rhb,Indian,True
+Amit Mishra,107,14,24-11-1982,DEC,Deccan Chargers,5,16,20,80.0,1,0,3,2,0,0,8*,5.33,India,rhb,Indian,True
+Tirumalasetti Suman,0,2,15-12-1983,MI,Mumbai Indians,2,15,19,78.94,1,1,2,0,0,0,10,7.5,India,rhb,Indian,True
+Ishank Jaggi,0,3,27-1-1989,DEC,Deccan Chargers,3,15,21,71.42,0,0,2,1,0,0,10*,7.5,India,rhb,Indian,True
+Paras Dogra,0,3,19-11-1984,PBKS,Punjab Kings,3,15,24,62.5,0,0,2,1,0,0,6,7.5,India,rhb,Indian,True
+Harmeet Singh Bansal,0,7,9-10-1987,PBKS,Punjab Kings,2,15,7,214.28,3,0,1,1,0,0,14,15.0,India,rhb,Indian,True
+Brad Hogg,0,9,6-2-1971,RR,Rajasthan Royals,3,15,16,93.75,1,0,2,1,0,0,13,7.5,Australia,lhb,Overseas,False
+Harshal Patel,114,12,23-11-1990,RCB,Royal Challengers Bangalore,3,15,15,100.0,1,0,2,1,0,0,10,7.5,India,rhb,Indian,True
+Mohammad Kaif,465,1,1-12-1980,RCB,Royal Challengers Bangalore,1,14,16,87.5,1,0,1,0,0,0,14,14.0,India,rhb,Indian,True
+Sreenath Aravind,0,1,8-4-1984,RCB,Royal Challengers Bangalore,1,14,8,175.0,3,0,0,1,0,0,14*,0.0,India,lhb,Indian,False
+James Faulkner,0,2,29-4-1990,PBKS,Punjab Kings,2,14,13,107.69,0,0,1,1,0,0,11*,14.0,Australia,rhb,Overseas,True
+Dimitri Mascarenhas,0,4,30-10-1977,PBKS,Punjab Kings,3,14,16,87.5,1,0,3,0,0,0,9,4.66,England,rhb,Overseas,True
+Doug Bracewell,67,1,28-9-1990,DC,Delhi Capitals,1,12,9,133.33,1,0,0,1,0,0,12*,0.0,New Zealand,rhb,Overseas,True
+Zaheer Khan,462,16,8-10-1978,RCB,Royal Challengers Bangalore,5,12,17,70.58,1,0,2,3,0,0,11*,6.0,India,rhb,Indian,True
+Krishnakant Upadhyay,0,1,18-6-1986,PWI,Pune Warriors India,1,11,8,137.5,0,1,0,1,0,0,11*,0.0,India,rhb,Indian,True
+Ankeet Chavan,0,8,28-10-1985,RR,Rajasthan Royals,2,11,8,137.5,2,0,1,1,0,0,7*,11.0,India,lhb,Indian,False
+Ashish Nehra,0,13,29-4-1979,PWI,Pune Warriors India,2,11,12,91.66,1,0,0,2,0,0,9*,0.0,India,rhb,Indian,True
+Dhawal Kulkarni,178,2,10-12-1988,MI,Mumbai Indians,1,10,5,200.0,2,0,0,1,0,0,10*,0.0,India,rhb,Indian,True
+Sunil Narine,156,15,26-5-1988,KKR,Kolkata Knight Riders,2,9,7,128.57,2,0,1,1,0,0,9*,9.0,West Indies,lhb,Overseas,False
+Clint McKay,448,2,20-2-1983,MI,Mumbai Indians,1,8,15,53.33,0,0,1,0,0,0,8,8.0,Australia,rhb,Overseas,True
+Juan Theron,0,2,24-7-1985,DEC,Deccan Chargers,1,7,6,116.66,1,0,0,1,0,0,7*,0.0,United States of America,rhb,Overseas,True
+Shadab Jakati,0,15,27-11-1980,CSK,Chennai Super Kings,2,7,12,58.33,0,0,0,2,0,0,6*,0.0,India,lhb,Indian,False
+Chris Lynn,27,1,10-4-1990,DEC,Deccan Chargers,1,6,9,66.66,1,0,1,0,0,0,6,6.0,Australia,rhb,Overseas,True
+Harpreet Singh,0,1,11-8-1991,PWI,Pune Warriors India,1,6,6,100.0,0,0,1,0,0,0,6,6.0,India,lhb,Indian,False
+Asad Pathan,0,2,17-6-1984,RCB,Royal Challengers Bangalore,2,6,7,85.71,0,0,1,1,0,0,4,6.0,India,rhb,Indian,True
+Glenn Maxwell,28,2,14-10-1988,DC,Delhi Capitals,2,6,11,54.54,0,0,1,1,0,0,3*,6.0,Australia,rhb,Overseas,True
+Wriddhiman Saha,225,4,24-10-1984,CSK,Chennai Super Kings,1,6,14,42.85,0,0,1,0,0,0,6,6.0,India,rhb,Indian,True
+Bhargav Bhatt,0,5,13-5-1990,PBKS,Punjab Kings,1,6,2,300.0,0,1,0,1,0,0,6*,0.0,India,lhb,Indian,False
+Muttiah Muralitharan,492,10,17-4-1972,RCB,Royal Challengers Bangalore,2,6,9,66.66,0,0,2,0,0,0,6,3.0,Sri Lanka,rhb,Overseas,True
+RP Singh,0,11,6-12-1985,MI,Mumbai Indians,5,6,12,50.0,0,0,2,3,0,0,3,3.0,India,rhb,Indian,True
+Nuwan Kulasekara,0,5,22-7-1982,CSK,Chennai Super Kings,1,5,3,166.66,1,0,0,1,0,0,5*,0.0,Sri Lanka,rhb,Overseas,True
+Pragyan Ojha,459,9,5-9-1986,MI,Mumbai Indians,3,5,14,35.71,0,0,2,1,0,0,4,2.5,India,lhb,Indian,False
+Siddharth Trivedi,0,14,4-9-1982,RR,Rajasthan Royals,1,5,6,83.33,0,0,0,1,0,0,5*,0.0,India,rhb,Indian,True
+Mohnish Mishra,0,1,9-2-1984,PWI,Pune Warriors India,1,4,4,100.0,1,0,1,0,0,0,4,4.0,India,rhb,Indian,True
+Dwaraka Ravi Teja,0,2,5-9-1987,DEC,Deccan Chargers,2,4,4,100.0,1,0,2,0,0,0,4,2.0,India,rhb,Indian,True
+Syed Mohammad,0,2,3-6-1983,RCB,Royal Challengers Bangalore,1,4,1,400.0,1,0,0,1,0,0,4*,0.0,India,lhb,Indian,False
+Thisara Perera,279,2,3-4-1989,MI,Mumbai Indians,2,4,9,44.44,0,0,1,1,0,0,4*,4.0,Sri Lanka,lhb,Overseas,False
+Manpreet Gony,507,6,4-1-1984,DEC,Deccan Chargers,1,4,8,50.0,0,0,1,0,0,0,4,4.0,India,rhb,Indian,True
+Parvinder Awana,0,12,19-7-1986,PBKS,Punjab Kings,2,4,5,80.0,0,0,0,2,0,0,4*,0.0,India,rhb,Indian,True
+Ali Murtaza,0,1,1-1-1990,PWI,Pune Warriors India,1,3,5,60.0,0,0,0,1,0,0,3*,0.0,India,lhb,Indian,False
+Doug Bollinger,0,6,24-7-1981,CSK,Chennai Super Kings,1,3,5,60.0,0,0,1,0,0,0,3,3.0,Australia,lhb,Overseas,False
+Morne Morkel,0,16,6-10-1984,DC,Delhi Capitals,4,3,5,60.0,0,0,2,2,0,0,2*,1.5,South Africa,lhb,Overseas,False
+Ashok Dinda,0,7,25-3-1984,PWI,Pune Warriors India,1,2,5,40.0,0,0,1,0,0,0,2,2.0,India,rhb,Indian,True
+Rahul Sharma,0,11,30-11-1986,PWI,Pune Warriors India,5,2,11,18.18,0,0,4,1,0,0,2,0.5,India,rhb,Indian,True
+Umesh Yadav,21,17,25-10-1987,DC,Delhi Capitals,3,2,7,28.57,0,0,2,1,0,0,1*,1.0,India,rhb,Indian,True
+Varun Aaron,197,8,29-10-1989,DC,Delhi Capitals,2,1,3,33.33,0,0,2,0,0,0,1,0.5,India,rhb,Indian,True
