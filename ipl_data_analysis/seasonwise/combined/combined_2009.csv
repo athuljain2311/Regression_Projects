@@ -1,0 +1,138 @@
+Name,PlayerDOB,TotalRuns,Balls,StrikeRate,Fours,Sixes,Outs,NotOuts,FiftyPlusRuns,Centuries,HighestScore,BattingAverage,Nation,BattingStyle,TotalRunsConceded,DotBallsBowled,BowlingAverage,BowlingStrikeRate,EconomyRate,OversBowled,FoursConceded,SixesConceded,Wickets,BBIW,BBMW,Maidens,FourWickets,FiveWickets,BallsBowled,TeamCode,TeamName,Innings,Matches,Nationality,RightHandedBat
+Matthew Hayden,29-10-1971,572.0,395.0,144.81,60.0,22.0,11.0,1.0,5.0,0.0,89,52.0,Australia,lhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,12.0,12.0,Overseas,False
+Adam Gilchrist,14-11-1971,495.0,325.0,152.3,54.0,29.0,16.0,0.0,3.0,0.0,85,30.93,Australia,lhb,,,,,,,,,,,,,,,,DEC,Deccan Chargers,16.0,16.0,Overseas,False
+Suresh Raina,27-11-1986,434.0,308.0,140.9,37.0,21.0,14.0,0.0,2.0,0.0,98,31.0,India,lhb,164.0,57.0,23.42,23.71,5.92,27,37.0,21.0,7.0,2/0,2/0,0.0,0.0,0.0,162.0,CSK,Chennai Super Kings,14.0,14.0,Indian,False
+JP Duminy,14-4-1984,372.0,325.0,114.46,26.0,11.0,9.0,3.0,5.0,0.0,62,41.33,South Africa,lhb,93.0,44.0,23.25,26.25,5.31,17,26.0,11.0,4.0,4/17,4/17,0.0,0.0,0.0,102.0,MI,Mumbai Indians,12.0,13.0,Overseas,False
+Herschelle Gibbs,23-2-1974,371.0,331.0,112.08,32.0,12.0,11.0,3.0,4.0,0.0,69*,33.72,South Africa,rhb,,,,,,,,,,,,,,,,DEC,Deccan Chargers,14.0,14.0,Overseas,True
+Brad Hodge,29-12-1974,365.0,310.0,117.74,34.0,9.0,9.0,3.0,3.0,0.0,73,40.55,Australia,rhb,161.0,34.0,23.0,17.14,8.05,20,34.0,9.0,7.0,4/13,4/13,0.0,0.0,0.0,120.0,KKR,Kolkata Knight Riders,12.0,12.0,Overseas,True
+Sachin Tendulkar,24-4-1973,364.0,303.0,120.13,39.0,10.0,11.0,2.0,2.0,0.0,68,33.09,India,rhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,13.0,13.0,Indian,True
+Rohit Sharma,30-4-1987,362.0,315.0,114.92,22.0,18.0,13.0,3.0,1.0,0.0,52,27.84,India,rhb,161.0,39.0,14.63,12.54,7.0,23,22.0,18.0,11.0,4/6,4/6,0.0,1.0,0.0,138.0,DEC,Deccan Chargers,16.0,16.0,Indian,True
+Jacques Kallis,16-10-1975,361.0,332.0,108.73,37.0,8.0,13.0,2.0,3.0,0.0,69*,27.76,South Africa,rhb,353.0,111.0,58.83,46.0,7.67,46,37.0,8.0,6.0,3/13,3/13,1.0,0.0,0.0,276.0,RCB,Royal Challengers Bangalore,15.0,15.0,Overseas,True
+Yuvraj Singh,12-12-1981,340.0,294.0,115.64,25.0,16.0,12.0,2.0,2.0,0.0,58*,28.33,India,lhb,142.0,48.0,23.66,20.0,7.1,20,25.0,16.0,6.0,4/29,4/29,0.0,0.0,0.0,120.0,PBKS,Punjab Kings,14.0,14.0,Indian,False
+Kumar Sangakkara,27-10-1977,332.0,324.0,102.46,29.0,5.0,11.0,2.0,2.0,0.0,60,30.18,Sri Lanka,lhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,13.0,14.0,Overseas,False
+MS Dhoni,7-7-1981,332.0,261.0,127.2,22.0,9.0,8.0,5.0,2.0,0.0,58*,41.5,India,rhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,13.0,14.0,Indian,True
+Ravindra Jadeja,6-12-1988,295.0,266.0,110.9,21.0,6.0,11.0,2.0,0.0,0.0,42,26.81,India,lhb,151.0,44.0,25.16,23.33,6.47,23,21.0,6.0,6.0,5/16,5/16,0.0,0.0,0.0,138.0,RR,Rajasthan Royals,13.0,13.0,Indian,False
+Brendon McCullum,27-9-1981,285.0,239.0,119.24,27.0,12.0,12.0,1.0,2.0,0.0,84*,23.75,New Zealand,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,13.0,13.0,Overseas,True
+Ross Taylor,8-3-1984,280.0,208.0,134.61,20.0,15.0,9.0,2.0,1.0,0.0,81*,31.11,New Zealand,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,11.0,11.0,Overseas,True
+Rahul Dravid,11-1-1973,271.0,234.0,115.81,28.0,3.0,12.0,0.0,1.0,0.0,66,22.58,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,12.0,13.0,Indian,True
+Andrew Symonds,9-6-1975,249.0,166.0,150.0,15.0,11.0,7.0,1.0,1.0,0.0,60*,35.57,Australia,rhb,160.0,66.0,22.85,20.57,6.66,24,15.0,11.0,7.0,3/21,3/21,0.0,0.0,0.0,144.0,DEC,Deccan Chargers,8.0,8.0,Overseas,True
+Virat Kohli,5-11-1988,246.0,219.0,112.32,22.0,8.0,11.0,2.0,1.0,0.0,50,22.36,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,13.0,16.0,Indian,True
+Yusuf Pathan,17-11-1982,243.0,183.0,132.78,24.0,12.0,12.0,1.0,1.0,0.0,62*,20.25,India,rhb,243.0,84.0,34.71,30.0,6.94,35,24.0,12.0,7.0,3/20,3/20,0.0,0.0,0.0,210.0,RR,Rajasthan Royals,13.0,13.0,Indian,True
+Tirumalasetti Suman,15-12-1983,237.0,190.0,124.73,18.0,8.0,10.0,2.0,0.0,0.0,41*,23.7,India,rhb,108.0,31.0,21.6,18.0,7.2,15,18.0,8.0,5.0,2/14,2/14,0.0,0.0,0.0,90.0,DEC,Deccan Chargers,12.0,12.0,Indian,True
+Sanath Jayasuriya,30-6-1969,221.0,192.0,115.1,23.0,7.0,12.0,0.0,2.0,0.0,52,18.41,Sri Lanka,lhb,163.0,29.0,23.28,16.28,8.57,19,23.0,7.0,7.0,3/14,3/14,0.0,0.0,0.0,114.0,MI,Mumbai Indians,12.0,12.0,Overseas,False
+Mahela Jayawardena,27-5-1977,219.0,165.0,132.72,17.0,7.0,6.0,4.0,1.0,0.0,52*,36.5,Sri Lanka,rhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,10.0,10.0,Overseas,True
+Dwayne Bravo,7-10-1983,218.0,203.0,107.38,15.0,8.0,8.0,2.0,2.0,0.0,70*,27.25,West Indies,rhb,259.0,91.0,23.54,18.09,7.8,33,15.0,8.0,11.0,4/22,4/22,0.0,0.0,0.0,198.0,MI,Mumbai Indians,10.0,11.0,Overseas,True
+Dwayne Smith,12-4-1983,215.0,132.0,162.87,12.0,15.0,8.0,0.0,0.0,0.0,49,26.87,West Indies,rhb,124.0,30.0,124.0,84.0,8.85,14,12.0,15.0,1.0,4/8,4/8,0.0,0.0,0.0,84.0,DEC,Deccan Chargers,8.0,8.0,Overseas,True
+Graeme Smith,1-2-1981,212.0,216.0,98.14,27.0,1.0,11.0,1.0,1.0,0.0,77,19.27,South Africa,lhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,12.0,12.0,Overseas,False
+Irfan Pathan,27-10-1984,196.0,158.0,124.05,17.0,6.0,10.0,2.0,0.0,0.0,39,19.6,India,lhb,390.0,121.0,22.94,17.76,7.74,50,17.0,6.0,17.0,3/24,3/24,1.0,0.0,0.0,300.0,PBKS,Punjab Kings,12.0,14.0,Indian,False
+Abhishek Nayar,8-10-1983,193.0,152.0,126.97,14.0,7.0,9.0,2.0,0.0,0.0,35,21.44,India,lhb,84.0,27.0,21.0,18.0,7.0,12,14.0,7.0,4.0,3/13,3/13,0.0,0.0,0.0,72.0,MI,Mumbai Indians,11.0,13.0,Indian,False
+Sourav Ganguly,8-7-1972,189.0,207.0,91.3,13.0,6.0,11.0,0.0,0.0,0.0,46,17.18,India,lhb,97.0,17.0,48.5,36.0,8.08,12,13.0,6.0,2.0,2/21,2/21,0.0,0.0,0.0,72.0,KKR,Kolkata Knight Riders,11.0,13.0,Indian,False
+Subramaniam Badrinath,30-8-1980,177.0,164.0,107.92,20.0,4.0,9.0,2.0,1.0,0.0,59*,19.66,India,rhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,11.0,14.0,Indian,True
+Robin Uthappa,11-11-1985,175.0,170.0,102.94,18.0,3.0,11.0,2.0,1.0,0.0,66*,15.9,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,13.0,15.0,Indian,True
+Chris Gayle,21-9-1979,171.0,143.0,119.58,15.0,10.0,6.0,1.0,0.0,0.0,44*,28.5,West Indies,lhb,144.0,32.0,144.0,113.0,7.64,19,15.0,10.0,1.0,3/21,3/21,0.0,0.0,0.0,114.0,KKR,Kolkata Knight Riders,7.0,7.0,Overseas,False
+Manish Pandey,10-9-1989,168.0,118.0,142.37,17.0,4.0,2.0,2.0,0.0,1.0,114*,84.0,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,4.0,5.0,Indian,True
+Naman Ojha,20-7-1983,168.0,144.0,116.66,11.0,11.0,7.0,1.0,2.0,0.0,68,24.0,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,8.0,8.0,Indian,True
+Mark Boucher,3-12-1976,150.0,116.0,129.31,8.0,6.0,5.0,4.0,0.0,0.0,48*,30.0,South Africa,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,9.0,12.0,Overseas,True
+Simon Katich,21-8-1975,145.0,117.0,123.93,15.0,6.0,9.0,0.0,1.0,0.0,50,16.11,Australia,lhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,9.0,9.0,Overseas,False
+Ajinkya Rahane,6-6-1988,144.0,123.0,117.07,12.0,3.0,6.0,1.0,2.0,0.0,62*,24.0,India,rhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,7.0,8.0,Indian,True
+Parthiv Patel,9-3-1985,142.0,126.0,112.69,19.0,2.0,9.0,0.0,0.0,0.0,36,15.77,India,lhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,9.0,9.0,Indian,False
+Ravi Bopara,4-5-1985,138.0,119.0,115.96,8.0,7.0,5.0,0.0,1.0,0.0,84,27.6,England,rhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,5.0,5.0,Overseas,True
+Karan Goel,24-12-1986,124.0,133.0,93.23,9.0,4.0,8.0,1.0,0.0,0.0,38,15.5,India,lhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,9.0,9.0,Indian,False
+Venugopal Rao,26-2-1982,124.0,114.0,108.77,6.0,3.0,11.0,2.0,0.0,0.0,32,11.27,India,rhb,122.0,28.0,30.5,22.5,8.13,15,6.0,3.0,4.0,2/23,2/23,0.0,0.0,0.0,90.0,DEC,Deccan Chargers,13.0,16.0,Indian,True
+Roelof van der Merwe,31-12-1984,122.0,98.0,124.48,8.0,8.0,8.0,0.0,0.0,0.0,35,15.25,Netherlands,rhb,248.0,53.0,27.55,22.66,7.29,34,8.0,8.0,9.0,3/20,3/20,0.0,0.0,0.0,204.0,RCB,Royal Challengers Bangalore,8.0,10.0,Overseas,True
+Sunny Sohal,10-11-1987,115.0,93.0,123.65,9.0,8.0,8.0,0.0,0.0,0.0,43,14.37,United States of America,rhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,8.0,8.0,Overseas,True
+Shane Warne,13-9-1969,108.0,116.0,93.1,6.0,4.0,8.0,3.0,0.0,0.0,34*,13.5,Australia,rhb,365.0,110.0,26.07,21.42,7.3,50,6.0,4.0,14.0,4/21,4/21,0.0,0.0,0.0,300.0,RR,Rajasthan Royals,11.0,13.0,Overseas,True
+Rob Quiney,20-8-1982,103.0,102.0,100.98,12.0,3.0,7.0,0.0,1.0,0.0,51,14.71,Australia,lhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,7.0,7.0,Overseas,False
+David Hussey,15-7-1977,98.0,59.0,166.1,7.0,6.0,4.0,0.0,0.0,0.0,43,24.5,Australia,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,4.0,4.0,Overseas,True
+Swapnil Asnodkar,29-3-1984,98.0,93.0,105.37,11.0,4.0,8.0,0.0,0.0,0.0,44,12.25,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,8.0,8.0,Indian,True
+Albie Morkel,10-6-1981,97.0,70.0,138.57,8.0,4.0,4.0,6.0,0.0,0.0,21*,24.25,South Africa,lhb,324.0,101.0,24.92,18.46,8.1,40,8.0,4.0,13.0,4/32,4/32,1.0,0.0,0.0,240.0,CSK,Chennai Super Kings,10.0,12.0,Overseas,False
+Kevin Pietersen,27-6-1980,93.0,85.0,109.41,8.0,2.0,6.0,0.0,0.0,0.0,37,15.5,England,rhb,85.0,26.0,21.25,19.5,6.53,13,8.0,2.0,4.0,2/31,2/31,0.0,0.0,0.0,78.0,RCB,Royal Challengers Bangalore,6.0,6.0,Overseas,True
+Jacob Oram,28-7-1978,88.0,93.0,94.62,5.0,4.0,6.0,2.0,0.0,0.0,41*,14.66,New Zealand,lhb,133.0,29.0,26.6,18.6,8.58,15,5.0,4.0,5.0,3/32,3/32,0.0,0.0,0.0,90.0,CSK,Chennai Super Kings,8.0,11.0,Overseas,False
+Harbhajan Singh,3-7-1980,84.0,53.0,158.49,6.0,5.0,8.0,2.0,0.0,0.0,20,10.5,India,rhb,256.0,105.0,21.33,22.0,5.81,44,6.0,5.0,12.0,5/18,5/18,0.0,1.0,0.0,264.0,MI,Mumbai Indians,10.0,13.0,Indian,True
+Laxmi Ratan Shukla,6-5-1981,83.0,85.0,97.64,5.0,3.0,5.0,1.0,0.0,0.0,48*,16.6,India,rhb,100.0,38.0,33.33,28.0,7.14,14,5.0,3.0,3.0,3/25,3/25,0.0,0.0,0.0,84.0,KKR,Kolkata Knight Riders,6.0,9.0,Indian,True
+Lee Carseldine,17-11-1975,81.0,68.0,119.11,11.0,0.0,4.0,1.0,0.0,0.0,39,20.25,Australia,lhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,5.0,5.0,Overseas,False
+Abhishek Raut,3-3-1987,78.0,61.0,127.86,5.0,3.0,4.0,3.0,0.0,0.0,36*,19.5,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,7.0,9.0,Indian,True
+Wriddhiman Saha,24-10-1984,72.0,41.0,175.6,3.0,4.0,3.0,4.0,0.0,0.0,25*,24.0,India,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,7.0,8.0,Indian,True
+Azhar Bilakhia,31-5-1986,67.0,81.0,82.71,5.0,0.0,4.0,2.0,0.0,0.0,22,16.75,India,rhb,,,,,,,,,,,,,,,,DEC,Deccan Chargers,6.0,6.0,Indian,True
+Ajit Agarkar,4-12-1977,66.0,57.0,115.78,3.0,3.0,2.0,5.0,0.0,0.0,39,33.0,India,rhb,284.0,67.0,47.33,31.0,9.16,31,3.0,3.0,6.0,3/25,3/25,0.0,0.0,0.0,186.0,KKR,Kolkata Knight Riders,7.0,11.0,Indian,True
+Dwaraka Ravi Teja,5-9-1987,65.0,70.0,92.85,7.0,0.0,3.0,3.0,0.0,0.0,27,21.66,India,rhb,,,,,,,,,,,,,,,,DEC,Deccan Chargers,6.0,9.0,Indian,True
+Praveen Kumar,2-10-1986,65.0,46.0,141.3,1.0,6.0,5.0,3.0,0.0,0.0,14*,13.0,India,rhb,394.0,121.0,30.3,22.92,7.93,49,1.0,6.0,13.0,3/18,3/18,1.0,0.0,0.0,294.0,RCB,Royal Challengers Bangalore,8.0,13.0,Indian,True
+Andrew Flintoff,6-12-1977,62.0,53.0,116.98,5.0,2.0,2.0,1.0,0.0,0.0,24,31.0,England,rhb,105.0,20.0,52.5,33.0,9.54,11,5.0,2.0,2.0,1/11,1/11,0.0,0.0,0.0,66.0,CSK,Chennai Super Kings,3.0,3.0,Overseas,True
+Murali Vijay,1-4-1984,60.0,67.0,89.55,4.0,2.0,4.0,0.0,0.0,0.0,31,15.0,India,rhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,4.0,4.0,Indian,True
+Jesse Ryder,6-8-1984,56.0,49.0,114.28,9.0,0.0,5.0,0.0,0.0,0.0,32,11.2,New Zealand,lhb,115.0,40.0,38.33,34.0,6.76,17,9.0,0.0,3.0,2/14,2/14,0.0,0.0,0.0,102.0,RCB,Royal Challengers Bangalore,5.0,5.0,Overseas,False
+Shreevats Goswami,18-5-1989,53.0,60.0,88.33,6.0,0.0,2.0,0.0,0.0,0.0,43,26.5,India,lhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,2.0,2.0,Indian,False
+Pinal Shah,3-11-1987,53.0,51.0,103.92,4.0,2.0,3.0,2.0,0.0,0.0,29,17.66,India,rhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,5.0,9.0,Indian,True
+Johan Botha,2-5-1982,47.0,40.0,117.5,5.0,0.0,2.0,1.0,0.0,0.0,37,23.5,South Africa,rhb,74.0,30.0,24.66,24.0,6.16,12,5.0,0.0,3.0,3/6,3/6,0.0,0.0,0.0,72.0,RR,Rajasthan Royals,3.0,3.0,Overseas,True
+Yashpal Singh,27-11-1981,47.0,66.0,71.21,5.0,0.0,4.0,0.0,0.0,0.0,20,11.75,India,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,4.0,8.0,Indian,True
+Vinay Kumar,12-2-1984,47.0,44.0,106.81,4.0,1.0,5.0,3.0,0.0,0.0,12,9.4,India,rhb,271.0,65.0,30.11,21.55,8.38,32,4.0,1.0,9.0,4/40,4/40,0.0,0.0,0.0,192.0,RCB,Royal Challengers Bangalore,8.0,11.0,Indian,True
+George Bailey,7-9-1982,45.0,39.0,115.38,7.0,0.0,2.0,0.0,0.0,0.0,30,22.5,Australia,rhb,,,,,,,,,,,,,,,,CSK,Chennai Super Kings,2.0,3.0,Overseas,True
+Luke Pomersbach,28-9-1984,41.0,49.0,83.67,3.0,1.0,4.0,0.0,0.0,0.0,26,10.25,Australia,lhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,4.0,4.0,Overseas,False
+Shikhar Dhawan,5-12-1985,40.0,45.0,88.88,3.0,0.0,4.0,0.0,0.0,0.0,22,10.0,India,lhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,4.0,5.0,Indian,False
+Dimitri Mascarenhas,30-10-1977,39.0,39.0,100.0,4.0,0.0,4.0,0.0,0.0,0.0,27,9.75,England,rhb,132.0,58.0,22.0,19.33,6.82,19,4.0,0.0,6.0,5/25,5/25,1.0,0.0,0.0,114.0,RR,Rajasthan Royals,4.0,5.0,Overseas,True
+Moises Henriques,1-2-1987,38.0,40.0,95.0,2.0,1.0,2.0,1.0,0.0,0.0,30*,19.0,Australia,rhb,107.0,24.0,53.5,36.5,8.79,12,2.0,1.0,2.0,3/12,3/12,0.0,0.0,0.0,72.0,KKR,Kolkata Knight Riders,3.0,4.0,Overseas,True
+Munaf Patel,12-7-1983,33.0,26.0,126.92,5.0,0.0,3.0,2.0,0.0,0.0,23*,11.0,India,rhb,241.0,110.0,15.06,13.06,6.91,35,5.0,0.0,16.0,5/21,5/21,1.0,0.0,0.0,210.0,RR,Rajasthan Royals,5.0,11.0,Indian,True
+Piyush Chawla,24-12-1988,31.0,36.0,86.11,3.0,0.0,5.0,5.0,0.0,0.0,8*,6.2,India,lhb,308.0,113.0,25.66,22.41,6.86,45,3.0,0.0,12.0,4/17,4/17,1.0,0.0,0.0,270.0,PBKS,Punjab Kings,10.0,14.0,Indian,False
+Chaminda Vaas,27-1-1974,30.0,21.0,142.85,1.0,1.0,1.0,1.0,0.0,0.0,20,30.0,Sri Lanka,lhb,71.0,24.0,17.75,12.0,8.87,8,1.0,1.0,4.0,3/21,3/21,0.0,0.0,0.0,48.0,DEC,Deccan Chargers,2.0,2.0,Overseas,False
+Wilkin Mota,20-9-1981,30.0,48.0,62.5,0.0,0.0,5.0,1.0,0.0,0.0,12,6.0,India,rhb,61.0,22.0,20.33,18.0,6.77,9,0.0,0.0,3.0,1/24,1/24,0.0,0.0,0.0,54.0,PBKS,Punjab Kings,6.0,8.0,Indian,True
+Brett Lee,8-11-1976,28.0,34.0,82.35,2.0,1.0,2.0,2.0,0.0,0.0,14*,14.0,Australia,rhb,111.0,70.0,22.2,24.0,5.55,20,2.0,1.0,5.0,3/15,3/15,1.0,0.0,0.0,120.0,PBKS,Punjab Kings,4.0,5.0,Overseas,True
+Amit Mishra,24-11-1982,26.0,20.0,130.0,2.0,2.0,3.0,2.0,0.0,0.0,13*,8.66,India,rhb,294.0,100.0,21.0,18.07,6.97,42,2.0,2.0,14.0,5/17,5/17,1.0,0.0,0.0,252.0,DC,Delhi Capitals,5.0,11.0,Indian,True
+Ramesh Powar,20-5-1978,23.0,22.0,104.54,2.0,0.0,1.0,3.0,0.0,0.0,10,23.0,India,rhb,132.0,49.0,26.4,25.2,6.28,21,2.0,0.0,5.0,2/11,2/11,0.0,0.0,0.0,126.0,PBKS,Punjab Kings,4.0,9.0,Indian,True
+Ryan Harris,11-10-1979,21.0,18.0,116.66,0.0,0.0,1.0,4.0,0.0,0.0,9*,21.0,Australia,rhb,230.0,84.0,38.33,31.0,7.41,31,0.0,0.0,6.0,4/34,4/34,2.0,0.0,0.0,186.0,DEC,Deccan Chargers,5.0,8.0,Overseas,True
+Murali Kartik,11-9-1976,21.0,20.0,105.0,0.0,0.0,0.0,2.0,0.0,0.0,11*,0.0,India,lhb,201.0,79.0,50.25,51.0,5.91,34,0.0,0.0,4.0,3/17,3/17,0.0,0.0,0.0,204.0,KKR,Kolkata Knight Riders,2.0,10.0,Indian,False
+Joginder Sharma,23-10-1983,20.0,18.0,111.11,0.0,1.0,1.0,1.0,0.0,0.0,16*,20.0,India,rhb,57.0,9.0,28.5,21.0,8.14,7,0.0,1.0,2.0,2/27,2/27,0.0,0.0,0.0,42.0,CSK,Chennai Super Kings,2.0,4.0,Indian,True
+Shadab Jakati,27-11-1980,20.0,15.0,133.33,3.0,0.0,1.0,1.0,0.0,0.0,13,20.0,India,lhb,217.0,63.0,16.69,13.38,7.48,29,3.0,0.0,13.0,4/22,4/22,0.0,2.0,0.0,174.0,CSK,Chennai Super Kings,2.0,9.0,Indian,False
+Rajesh Bishnoi,8-10-1987,19.0,17.0,111.76,1.0,2.0,3.0,0.0,0.0,0.0,18,6.33,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,3.0,3.0,Indian,True
+VVS Laxman,1-11-1974,19.0,33.0,57.57,1.0,1.0,5.0,0.0,0.0,0.0,10,3.8,India,rhb,,,,,,,,,,,,,,,,DEC,Deccan Chargers,5.0,5.0,Indian,True
+Niraj Patel,26-3-1981,18.0,38.0,47.36,1.0,0.0,2.0,0.0,0.0,0.0,14,9.0,India,lhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,2.0,4.0,Indian,False
+Balachandra Akhil,7-10-1977,17.0,15.0,113.33,1.0,1.0,2.0,1.0,0.0,0.0,9,8.5,India,rhb,80.0,19.0,20.0,16.5,7.27,11,1.0,1.0,4.0,2/17,2/17,0.0,0.0,0.0,66.0,RCB,Royal Challengers Bangalore,3.0,6.0,Indian,True
+Angelo Mathews,2-6-1987,16.0,13.0,123.07,2.0,0.0,1.0,0.0,0.0,0.0,16,16.0,Sri Lanka,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,1.0,1.0,Overseas,True
+Mahesh Rawat,25-10-1985,16.0,19.0,84.21,1.0,0.0,0.0,3.0,0.0,0.0,8*,0.0,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,3.0,5.0,Indian,True
+Ishant Sharma,2-9-1988,16.0,13.0,123.07,1.0,1.0,2.0,1.0,0.0,0.0,9,8.0,India,rhb,297.0,130.0,27.0,23.45,6.9,43,1.0,1.0,11.0,5/12,5/12,0.0,0.0,0.0,258.0,KKR,Kolkata Knight Riders,3.0,11.0,Indian,True
+Anil Kumble,17-10-1970,16.0,19.0,84.21,2.0,0.0,1.0,6.0,0.0,0.0,7*,16.0,India,rhb,347.0,138.0,16.52,16.9,5.86,59,2.0,0.0,21.0,5/5,5/5,1.0,1.0,1.0,354.0,RCB,Royal Challengers Bangalore,7.0,16.0,Indian,True
+Graham Napier,6-1-1980,15.0,16.0,93.75,1.0,0.0,1.0,0.0,0.0,0.0,15,15.0,England,rhb,27.0,8.0,27.0,24.0,6.75,4,1.0,0.0,1.0,1/27,1/27,0.0,0.0,0.0,24.0,MI,Mumbai Indians,1.0,1.0,Overseas,True
+Wasim Jaffer,16-2-1978,15.0,17.0,88.23,2.0,0.0,2.0,0.0,0.0,0.0,8,7.5,India,rhb,,,,,,,,,,,,,,,,RCB,Royal Challengers Bangalore,2.0,2.0,Indian,True
+Scott Styris,10-7-1975,14.0,8.0,175.0,0.0,1.0,1.0,0.0,0.0,0.0,14,14.0,New Zealand,rhb,64.0,21.0,12.8,9.6,8.0,8,0.0,1.0,5.0,3/32,3/32,0.0,0.0,0.0,48.0,DEC,Deccan Chargers,1.0,2.0,Overseas,True
+Saurabh Tiwary,30-12-1989,13.0,12.0,108.33,0.0,0.0,1.0,2.0,0.0,0.0,6*,13.0,India,lhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,3.0,4.0,Indian,False
+Manpreet Gony,4-1-1984,13.0,7.0,185.71,0.0,2.0,2.0,1.0,0.0,0.0,7,6.5,India,rhb,172.0,36.0,34.4,20.4,10.11,17,0.0,2.0,5.0,3/31,3/31,0.0,0.0,0.0,102.0,CSK,Chennai Super Kings,3.0,7.0,Indian,True
+Rohan Raje,3-9-1986,12.0,9.0,133.33,0.0,1.0,1.0,1.0,0.0,0.0,11*,12.0,India,rhb,72.0,11.0,72.0,41.0,10.53,7,0.0,1.0,1.0,2/16,2/16,0.0,0.0,0.0,42.0,MI,Mumbai Indians,2.0,4.0,Indian,True
+Aakash Chopra,19-9-1977,11.0,19.0,57.89,2.0,0.0,1.0,0.0,0.0,0.0,11,11.0,India,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,1.0,2.0,Indian,True
+Tyron Henderson,1-8-1974,11.0,16.0,68.75,0.0,1.0,2.0,0.0,0.0,0.0,11,5.5,South Africa,rhb,40.0,14.0,40.0,36.0,6.66,6,0.0,1.0,1.0,1/30,1/30,0.0,0.0,0.0,36.0,RR,Rajasthan Royals,2.0,2.0,Overseas,True
+Dillon du Preez,8-11-1981,10.0,13.0,76.92,0.0,0.0,1.0,0.0,0.0,0.0,10,10.0,South Africa,rhb,56.0,18.0,14.0,10.5,8.0,7,0.0,0.0,4.0,3/32,3/32,1.0,0.0,0.0,42.0,RCB,Royal Challengers Bangalore,1.0,2.0,Overseas,True
+Shane Harwood,1-3-1974,9.0,14.0,64.28,0.0,0.0,0.0,2.0,0.0,0.0,6*,0.0,Australia,rhb,73.0,34.0,24.33,20.0,7.3,10,0.0,0.0,3.0,2/25,2/25,0.0,0.0,0.0,60.0,RR,Rajasthan Royals,2.0,3.0,Overseas,True
+Siddharth Trivedi,4-9-1982,9.0,18.0,50.0,0.0,0.0,2.0,1.0,0.0,0.0,6*,4.5,India,rhb,152.0,43.0,25.33,20.0,7.6,20,0.0,0.0,6.0,4/25,4/25,0.0,0.0,0.0,120.0,RR,Rajasthan Royals,3.0,7.0,Indian,True
+Dhawal Kulkarni,10-12-1988,9.0,17.0,52.94,0.0,0.0,2.0,2.0,0.0,0.0,7*,4.5,India,rhb,206.0,65.0,41.2,31.2,7.92,26,0.0,0.0,5.0,4/14,4/14,0.0,0.0,0.0,156.0,MI,Mumbai Indians,4.0,8.0,Indian,True
+Morne Morkel,6-10-1984,8.0,8.0,100.0,1.0,0.0,1.0,0.0,0.0,0.0,8,8.0,South Africa,lhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,1.0,2.0,Overseas,False
+Ravichandran Ashwin,17-9-1986,8.0,15.0,53.33,1.0,0.0,1.0,0.0,0.0,0.0,8,8.0,India,rhb,13.0,11.0,6.5,12.0,3.25,4,1.0,0.0,2.0,4/34,4/34,0.0,0.0,0.0,24.0,CSK,Chennai Super Kings,1.0,2.0,Indian,True
+Zaheer Khan,8-10-1978,8.0,11.0,72.72,0.0,0.0,1.0,3.0,0.0,0.0,4*,8.0,India,rhb,142.0,51.0,23.66,21.0,6.76,21,0.0,0.0,6.0,4/17,4/17,0.0,0.0,0.0,126.0,MI,Mumbai Indians,4.0,6.0,Indian,True
+Muttiah Muralitharan,17-4-1972,8.0,8.0,100.0,1.0,0.0,2.0,2.0,0.0,0.0,4,4.0,Sri Lanka,rhb,261.0,146.0,18.64,21.42,5.22,50,1.0,0.0,14.0,3/11,3/11,1.0,0.0,0.0,300.0,CSK,Chennai Super Kings,4.0,13.0,Overseas,True
+RP Singh,6-12-1985,8.0,17.0,47.05,0.0,0.0,4.0,2.0,0.0,0.0,4,2.0,India,rhb,417.0,172.0,18.13,15.56,6.98,59,0.0,0.0,23.0,4/22,4/22,1.0,1.0,0.0,354.0,DEC,Deccan Chargers,6.0,16.0,Indian,True
+Arindam Ghosh,19-10-1986,7.0,8.0,87.5,1.0,0.0,2.0,0.0,0.0,0.0,7,3.5,India,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,2.0,2.0,Indian,True
+Siddharth Chitnis,6-5-1987,6.0,8.0,75.0,1.0,0.0,1.0,0.0,0.0,0.0,6,6.0,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,1.0,1.0,Indian,True
+Paul Valthaty,7-12-1983,6.0,12.0,50.0,1.0,0.0,2.0,0.0,0.0,0.0,5,3.0,India,rhb,,,,,,,,,,,,,,,,RR,Rajasthan Royals,2.0,2.0,Indian,True
+Shoaib Shaikh,18-1-1987,6.0,7.0,85.71,1.0,0.0,1.0,0.0,0.0,0.0,6,6.0,India,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,1.0,2.0,Indian,True
+Shanthakumaran Sreesanth,6-2-1983,5.0,18.0,27.77,1.0,0.0,0.0,2.0,0.0,0.0,4*,0.0,India,rhb,192.0,62.0,32.0,23.0,8.34,23,1.0,0.0,6.0,3/29,3/29,0.0,0.0,0.0,138.0,PBKS,Punjab Kings,2.0,7.0,Indian,True
+Lakshmipathy Balaji,27-9-1981,4.0,10.0,40.0,0.0,0.0,3.0,1.0,0.0,0.0,2*,1.33,India,rhb,316.0,70.0,24.3,17.23,8.46,37,0.0,0.0,13.0,5/24,5/24,0.0,1.0,0.0,222.0,CSK,Chennai Super Kings,4.0,13.0,Indian,True
+Kamran Khan,10-3-1991,3.0,5.0,60.0,0.0,0.0,1.0,0.0,0.0,0.0,3,3.0,India,lhb,124.0,39.0,20.66,17.66,7.01,17,0.0,0.0,6.0,3/18,3/18,0.0,0.0,0.0,102.0,RR,Rajasthan Royals,1.0,5.0,Indian,False
+Mashrafe Mortaza,5-10-1983,2.0,2.0,100.0,0.0,0.0,0.0,1.0,0.0,0.0,2*,0.0,Bangladesh,rhb,,,,,,,,,,,,,,,,KKR,Kolkata Knight Riders,1.0,1.0,Overseas,True
+Mohammad Ashraful,7-7-1984,2.0,10.0,20.0,0.0,0.0,1.0,0.0,0.0,0.0,2,2.0,Bangladesh,rhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,1.0,1.0,Overseas,True
+Thilan Thushara,1-3-1981,2.0,7.0,28.57,0.0,0.0,1.0,1.0,0.0,0.0,1*,2.0,Sri Lanka,lhb,60.0,19.0,20.0,16.0,7.5,8,0.0,0.0,3.0,2/16,2/16,0.0,0.0,0.0,48.0,CSK,Chennai Super Kings,2.0,2.0,Overseas,False
+Ashok Dinda,25-3-1984,2.0,3.0,66.66,0.0,0.0,2.0,0.0,0.0,0.0,2,1.0,India,rhb,193.0,67.0,48.25,36.0,8.04,24,0.0,0.0,4.0,4/18,4/18,0.0,0.0,0.0,144.0,KKR,Kolkata Knight Riders,2.0,9.0,Indian,True
+Taruwar Kohli,17-12-1988,1.0,4.0,25.0,0.0,0.0,1.0,1.0,0.0,0.0,1,1.0,India,rhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,2.0,2.0,Indian,True
+Pankaj Singh,6-5-1985,1.0,2.0,50.0,0.0,0.0,1.0,1.0,0.0,0.0,1*,1.0,India,rhb,65.0,12.0,32.5,21.0,9.28,7,0.0,0.0,2.0,2/18,2/18,0.0,0.0,0.0,42.0,RCB,Royal Challengers Bangalore,2.0,3.0,Indian,True
+Amit Singh,21-6-1981,1.0,3.0,33.33,0.0,0.0,1.0,1.0,0.0,0.0,1*,1.0,India,rhb,95.0,56.0,10.55,11.66,5.42,17,0.0,0.0,9.0,4/19,4/19,0.0,1.0,0.0,102.0,RR,Rajasthan Royals,2.0,5.0,Indian,True
+Shoaib Ahmed,19-11-1987,1.0,6.0,16.66,0.0,0.0,2.0,1.0,0.0,0.0,1*,0.5,India,rhb,152.0,35.0,30.4,20.4,8.94,17,0.0,0.0,5.0,2/20,2/20,0.0,0.0,0.0,102.0,DEC,Deccan Chargers,3.0,7.0,Indian,True
+Pragyan Ojha,5-9-1986,1.0,7.0,14.28,0.0,0.0,3.0,1.0,0.0,0.0,1,0.33,India,lhb,348.0,108.0,19.33,17.83,6.5,53,0.0,0.0,18.0,3/11,3/11,0.0,0.0,0.0,318.0,DEC,Deccan Chargers,4.0,15.0,Indian,False
+Luke Ronchi,23-4-1981,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0*,0.0,New Zealand,rhb,,,,,,,,,,,,,,,,MI,Mumbai Indians,1.0,1.0,Overseas,True
+Tanmay Srivastava,7-11-1989,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0*,0.0,India,lhb,,,,,,,,,,,,,,,,PBKS,Punjab Kings,1.0,2.0,Indian,False
+Chetanya Nanda,29-3-1979,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0*,0.0,India,rhb,57.0,13.0,28.5,24.0,7.12,8,0.0,0.0,2.0,1/4,1/4,0.0,0.0,0.0,48.0,MI,Mumbai Indians,1.0,3.0,Indian,True
+Dale Steyn,27-6-1983,0.0,3.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0*,0.0,South Africa,rhb,62.0,27.0,31.0,27.0,6.88,9,0.0,0.0,2.0,3/11,3/11,0.0,0.0,0.0,54.0,RCB,Royal Challengers Bangalore,2.0,3.0,Overseas,True
+Ajantha Mendis,11-3-1985,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0*,0.0,Sri Lanka,rhb,117.0,26.0,39.0,32.0,7.31,16,0.0,0.0,3.0,2/19,2/19,0.0,0.0,0.0,96.0,KKR,Kolkata Knight Riders,1.0,4.0,Overseas,True
+KP Appanna,20-12-1988,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0*,0.0,India,rhb,87.0,18.0,43.5,36.0,7.25,12,0.0,0.0,2.0,4/19,4/19,0.0,0.0,0.0,72.0,RCB,Royal Challengers Bangalore,1.0,5.0,Indian,True
+Lasith Malinga,28-8-1983,0.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0*,0.0,Sri Lanka,rhb,312.0,144.0,17.33,16.5,6.3,49,0.0,0.0,18.0,5/13,5/13,2.0,0.0,0.0,294.0,MI,Mumbai Indians,3.0,13.0,Overseas,True
+Yusuf Abdulla,17-1-1983,,,,,,,,,,,,South Africa,lhb,241.0,75.0,17.21,12.0,8.6,28,0.0,0.0,14.0,4/31,4/31,1.0,2.0,0.0,168.0,PBKS,Punjab Kings,9.0,9.0,Overseas,False
+Sudeep Tyagi,17-9-1987,,,,,,,,,,,,India,rhb,136.0,60.0,27.2,22.8,7.15,19,0.0,0.0,5.0,2/18,2/18,0.0,0.0,0.0,114.0,CSK,Chennai Super Kings,8.0,8.0,Indian,True
+Charl Langeveldt,17-12-1974,,,,,,,,,,,,South Africa,rhb,15.0,16.0,5.0,8.0,3.75,4,0.0,0.0,3.0,3/15,3/15,0.0,0.0,0.0,24.0,KKR,Kolkata Knight Riders,1.0,1.0,Overseas,True
+Harmeet Singh Bansal,9-10-1987,,,,,,,,,,,,India,rhb,192.0,47.0,64.0,45.66,8.4,23,0.0,0.0,3.0,3/24,3/24,0.0,0.0,0.0,138.0,DEC,Deccan Chargers,7.0,7.0,Indian,True
+Anureet Singh,2-3-1988,,,,,,,,,,,,India,rhb,47.0,16.0,23.5,15.0,9.4,5,0.0,0.0,2.0,3/23,3/23,0.0,0.0,0.0,30.0,KKR,Kolkata Knight Riders,2.0,3.0,Indian,True
+Vikramjeet Malik,9-5-1983,,,,,,,,,,,,India,rhb,98.0,30.0,49.0,36.0,8.16,12,0.0,0.0,2.0,2/14,2/14,0.0,0.0,0.0,72.0,PBKS,Punjab Kings,5.0,5.0,Indian,True
+Vikram Singh,17-9-1984,,,,,,,,,,,,India,rhb,82.0,16.0,82.0,54.0,9.11,9,0.0,0.0,1.0,3/29,3/29,0.0,0.0,0.0,54.0,PBKS,Punjab Kings,4.0,5.0,Indian,True
