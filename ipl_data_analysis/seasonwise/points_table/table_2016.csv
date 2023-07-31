@@ -1,0 +1,9 @@
+TeamCode,TeamName,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,IsQualified,Performance
+GL,Gujarat Lions,14,9,5,0,0,18,0,2130/264.3,2285/271.1,-0.374,1.0,WWLWL
+RCB,Royal Challengers Bangalore,14,8,6,0,0,16,0,2613/270.2,2345/268.3,0.932,1.0,WWWWL
+SRH,Sunrisers Hyderabad,14,8,6,0,0,16,0,2082/259.5,2078/267.3,0.245,1.0,LLWLW
+KKR,Kolkata Knight Riders,14,8,6,0,0,16,0,2123/253.2,2121/256.2,0.106,1.0,WLLWL
+MI,Mumbai Indians,14,7,7,0,0,14,0,2194/272.2,2190/267,-0.146,0.0,LWLWL
+DD,Delhi Capitals,14,7,7,0,0,14,0,2040/259.1,2107/262.3,-0.155,0.0,LWLLW
+RPS,Rising Pune Supergiant,14,5,9,0,0,10,0,2025/244.5,1991/241.1,0.015,0.0,WWLLL
+PBKS,Punjab Kings,14,4,10,0,0,8,0,2134/269.4,2224/259.5,-0.646,0.0,LLLWL

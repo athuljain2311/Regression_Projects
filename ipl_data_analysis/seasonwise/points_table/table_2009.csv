@@ -1,0 +1,9 @@
+TeamCode,TeamName,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,IsQualified,Performance
+DD,Delhi Capitals,14,10,4,0,0,20,0,1978/255.2,1953/262.4,0.311,1.0,WLWLW
+CSK,Chennai Super Kings,14,8,5,0,1,17,0,2086/255.3,1855/257.1,0.951,1.0,WLWLW
+RCB,Royal Challengers Bangalore,14,8,6,0,0,16,0,1994/276,2027/273.2,-0.191,1.0,WWWWL
+DEC,Deccan Chargers,14,7,7,0,0,14,0,2111/272.4,2097/278.1,0.203,1.0,LLWLW
+PBKS,Punjab Kings,14,7,7,0,0,14,0,1787/251.2,1887/248.3,-0.483,0.0,LWWLW
+RR,Rajasthan Royals,14,6,7,0,1,13,0,1688/253.1,1810/257.5,-0.352,0.0,LLWLL
+MI,Mumbai Indians,14,5,8,0,1,11,0,1897/256.2,1802/253.4,0.297,0.0,LLLWW
+KKR,Kolkata Knight Riders,14,3,10,0,1,7,0,1757/248.5,1867/237.5,-0.789,0.0,WWLLL

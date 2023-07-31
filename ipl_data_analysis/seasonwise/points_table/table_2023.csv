@@ -1,0 +1,11 @@
+TeamCode,TeamName,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,IsQualified,Performance
+GT,Gujarat Titans,14,10,4,0,0,20,0,2450/268.1,2326/279.2,0.809,1.0,"W,W,L,W,W"
+CSK,Chennai Super Kings,14,8,5,0,1,17,0,2369/254.3,2232/257.5,0.652,1.0,"N,W,W,L,W"
+LSG,Lucknow Super Giants,14,8,5,0,1,17,0,2253/255.2,2216/259.3,0.284,1.0,"N,L,W,W,W"
+MI,Mumbai Indians,14,8,6,0,0,16,0,2592/270.3,2620/272.1,-0.044,1.0,"L,W,W,L,W"
+RR,Rajasthan Royals,14,7,7,0,0,14,0,2419/272.1,2389/273.2,0.148,0.0,"L,L,W,L,W"
+RCB,Royal Challengers Bangalore,14,7,7,0,0,14,0,2502/275.4,2435/272.2,0.135,0.0,"L,L,W,W,L"
+KKR,Kolkata Knight Riders,14,6,8,0,0,12,0,2463/274.3,2432/264.0,-0.239,0.0,"W,W,L,W,L"
+PBKS,Punjab Kings,14,6,8,0,0,12,0,2518/275.3,2564/271.3,-0.304,0.0,"L,L,W,L,L"
+DC,Delhi Capitals,14,5,9,0,0,10,0,2182/276.0,2424/278.1,-0.808,0.0,"W,L,L,W,L"
+SRH,Sunrisers Hyderabad,14,4,10,0,0,8,0,2376/277.1,2486/271.2,-0.59,0.0,"W,L,L,L,L"
