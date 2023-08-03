@@ -1,0 +1,10 @@
+TeamCode,TeamName,Matches,Wins,Loss,Tied,NoResult,Points,Draw,ForTeams,AgainstTeam,NetRunRate,IsQualified,Performance
+CSK,Chennai Super Kings,16,11,5,0,0,22,0,2461/303.5,2310/305.1,0.53,1.0,LWLWL
+MI,Mumbai Indians,16,11,5,0,0,22,0,2514/318.1,2350/315,0.441,1.0,LWWWW
+RR,Rajasthan Royals,16,10,6,0,0,20,0,2405/310.5,2326/313.4,0.322,1.0,LLWWW
+SRH,Sunrisers Hyderabad,16,10,6,0,0,20,0,2166/308.5,2206/314.4,0.003,1.0,WWLWL
+RCB,Royal Challengers Bangalore,16,9,7,0,0,18,0,2571/301,2451/303.1,0.457,0.0,WLLWL
+PBKS,Punjab Kings,16,8,8,0,0,16,0,2428/305.2,2417/312.5,0.226,0.0,WWWLL
+KKR,Kolkata Knight Riders,16,6,10,0,0,12,0,2290/313.4,2316/313.1,-0.095,0.0,LLWWL
+PWI,Pune Warriors India,16,4,12,0,0,8,0,2262/318.4,2519/310.5,-1.006,0.0,WWLLL
+DD,Delhi Capitals,16,3,13,0,0,6,0,2234/314.5,2436/306.4,-0.848,0.0,LLLLLL

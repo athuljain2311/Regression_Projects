@@ -1,0 +1,98 @@
+Name,RightHandedBat,Nationality,TeamCode,TeamName,Matches,Innings,TotalRunsConceded,DotBallsBowled,BowlingAverage,BowlingStrikeRate,EconomyRate,OversBowled,FoursConceded,SixesConceded,Wickets,BBIW,BBMW,Maidens,FourWickets,FiveWickets,BallsBowled
+Pragyan Ojha,False,,DEC,Deccan Chargers,16,16,429,134,20.42,16.8,7.29,59,0,0,21,3/11,3/11,0,0,0,354
+Harbhajan Singh,False,,MI,Mumbai Indians,15,14,377,102,22.17,18.88,7.04,53,12,5,17,5/18,5/18,1,0,0,318
+Anil Kumble,False,,RCB,Royal Challengers Bangalore,16,16,407,151,23.94,22.35,6.42,63,0,0,17,5/5,5/5,0,1,0,378
+Amit Mishra,False,,DC,Delhi Capitals,14,14,363,131,21.35,18.7,6.84,53,1,0,17,5/17,5/17,0,0,0,318
+Vinay Kumar,False,,RCB,Royal Challengers Bangalore,14,14,396,101,24.75,17.31,8.57,46,1,0,16,4/40,4/40,0,1,0,276
+Zaheer Khan,False,,MI,Mumbai Indians,14,14,376,107,25.06,19.33,7.77,48,3,1,15,4/17,4/17,1,0,0,288
+Dale Steyn,False,,RCB,Royal Challengers Bangalore,15,15,406,164,27.06,23.6,6.88,59,2,0,15,3/11,3/11,1,0,0,354
+Irfan Pathan,False,,PBKS,Punjab Kings,14,14,426,98,28.4,18.53,9.19,46,21,10,15,3/24,3/24,0,0,0,276
+Kieron Pollard,False,,MI,Mumbai Indians,14,12,274,58,18.26,14.8,7.4,37,23,17,15,4/44,4/44,0,0,0,222
+Lasith Malinga,False,,MI,Mumbai Indians,13,13,344,116,22.93,19.6,7.02,49,0,0,15,5/13,5/13,0,1,0,294
+Muttiah Muralitharan,False,,CSK,Chennai Super Kings,12,12,329,121,21.93,19.2,6.85,48,0,0,15,3/11,3/11,0,0,0,288
+Ryan Harris,False,,DEC,Deccan Chargers,8,8,233,82,16.64,13.14,7.59,30,2,2,14,4/34,4/34,0,0,0,180
+Ravichandran Ashwin,False,,CSK,Chennai Super Kings,12,12,293,125,22.53,22.15,6.1,48,2,0,13,4/34,4/34,1,0,0,288
+RP Singh,False,,DEC,Deccan Chargers,12,12,370,99,28.46,19.38,8.8,42,0,0,13,4/22,4/22,0,0,0,252
+Jacques Kallis,False,,RCB,Royal Challengers Bangalore,16,16,476,118,36.61,26.3,8.35,57,67,9,13,3/13,3/13,1,0,0,342
+Shadab Jakati,False,,CSK,Chennai Super Kings,11,11,291,82,22.38,17.53,7.65,38,0,0,13,4/22,4/22,1,0,0,228
+Piyush Chawla,False,,PBKS,Punjab Kings,14,14,367,94,30.58,24.5,7.48,49,7,0,12,4/17,4/17,0,0,0,294
+Doug Bollinger,False,,CSK,Chennai Super Kings,8,8,207,94,17.25,15.5,6.67,31,1,1,12,4/13,4/13,2,1,0,186
+Andrew Symonds,False,,DEC,Deccan Chargers,16,16,372,107,31.0,26.5,7.01,53,35,18,12,3/21,3/21,0,0,0,318
+Siddharth Trivedi,False,,RR,Rajasthan Royals,11,10,260,69,23.63,19.36,7.32,35,3,1,11,4/25,4/25,0,0,0,210
+Shane Warne,False,,RR,Rajasthan Royals,14,14,381,94,34.63,27.27,7.62,50,0,0,11,4/21,4/21,0,1,0,300
+Albie Morkel,False,,CSK,Chennai Super Kings,14,14,405,97,36.81,26.0,8.49,47,10,13,11,4/32,4/32,1,0,0,282
+Shaun Tait,False,,RR,Rajasthan Royals,8,8,264,70,26.4,18.7,8.47,31,0,1,10,3/13,3/13,0,0,0,186
+Praveen Kumar,False,,RCB,Royal Challengers Bangalore,12,12,380,110,38.0,27.0,8.44,45,0,0,10,3/18,3/18,0,0,0,270
+Murali Kartik,False,,KKR,Kolkata Knight Riders,10,10,253,77,28.11,26.0,6.48,39,2,0,9,3/17,3/17,0,0,0,234
+Pradeep Sangwan,False,,DC,Delhi Capitals,8,8,258,71,28.66,20.66,8.32,31,0,0,9,3/18,3/18,0,0,0,186
+Ashok Dinda,False,,KKR,Kolkata Knight Riders,7,7,152,64,16.88,15.44,6.56,23,0,0,9,4/18,4/18,0,0,0,138
+Shane Bond,False,,KKR,Kolkata Knight Riders,8,8,224,75,24.88,20.66,7.22,31,0,0,9,2/24,2/24,1,0,0,186
+Chaminda Vaas,False,,DEC,Deccan Chargers,6,6,139,63,15.44,14.66,6.31,22,1,1,9,3/21,3/21,2,0,0,132
+Harmeet Singh Bansal,False,,DEC,Deccan Chargers,8,8,174,60,21.75,18.0,7.25,24,0,0,8,3/24,3/24,0,0,0,144
+MF Maharoof,False,,DC,Delhi Capitals,7,7,206,54,25.75,18.0,8.58,24,2,2,8,3/34,3/34,0,0,0,144
+Angelo Mathews,False,,KKR,Kolkata Knight Riders,14,12,314,58,39.25,28.12,8.37,37,18,8,8,4/19,4/19,0,1,0,222
+Dilhara Fernando,False,,MI,Mumbai Indians,5,5,138,50,19.71,16.28,7.26,19,0,0,7,4/18,4/18,0,0,0,114
+Ishant Sharma,False,,KKR,Kolkata Knight Riders,7,7,236,54,33.71,21.42,9.44,25,0,0,7,5/12,5/12,0,0,0,150
+Lakshmipathy Balaji,False,,CSK,Chennai Super Kings,7,7,207,50,29.57,20.0,8.87,23,1,1,7,5/24,5/24,0,0,0,138
+Dirk Nannes,False,,DC,Delhi Capitals,9,9,224,93,32.0,29.42,6.52,34,0,0,7,3/27,3/27,0,0,0,204
+Juan Theron,False,,PBKS,Punjab Kings,7,7,187,44,31.16,24.0,7.79,24,0,0,6,2/17,2/17,0,0,0,144
+Shane Watson,False,,RR,Rajasthan Royals,6,6,184,61,30.66,22.0,8.36,22,18,9,6,4/29,4/29,0,0,0,132
+Umesh Yadav,False,,DC,Delhi Capitals,7,7,184,55,30.66,24.0,7.66,24,0,0,6,4/24,4/24,0,0,0,144
+Jaskaran Singh,False,,DEC,Deccan Chargers,6,6,139,31,23.16,14.0,9.92,14,0,0,6,2/18,2/18,0,0,0,84
+Ashish Nehra,False,,DC,Delhi Capitals,4,4,96,37,16.0,14.0,6.85,14,2,1,6,4/10,4/10,0,0,0,84
+Shalabh Srivastava,False,,PBKS,Punjab Kings,8,8,255,54,42.5,27.0,9.44,27,0,0,6,2/20,2/20,0,0,0,162
+Suresh Raina,False,,CSK,Chennai Super Kings,16,12,178,41,29.66,23.83,7.46,24,45,22,6,2/0,2/0,0,0,0,144
+Rahul Sharma,False,,DEC,Deccan Chargers,6,6,167,40,33.4,24.8,8.08,20,3,1,5,3/13,3/13,0,0,0,120
+Ravi Bopara,False,,PBKS,Punjab Kings,10,5,127,21,25.4,15.6,9.76,13,25,3,5,3/31,3/31,0,0,0,78
+Thilan Thushara,False,,CSK,Chennai Super Kings,4,4,101,38,20.2,17.4,6.96,14,0,0,5,2/16,2/16,0,0,0,84
+Aditya Dole,False,,RR,Rajasthan Royals,3,3,112,21,22.4,13.2,10.18,11,3,1,5,2/36,2/36,0,0,0,66
+Yusuf Pathan,False,,RR,Rajasthan Royals,14,11,246,60,49.2,40.8,7.23,34,22,24,5,3/20,3/20,0,0,0,204
+Paul Collingwood,False,,DC,Delhi Capitals,8,6,101,24,20.2,17.8,6.8,15,9,13,5,2/19,2/19,0,0,0,90
+Yuvraj Singh,False,,PBKS,Punjab Kings,14,10,152,45,30.4,27.6,6.6,23,20,14,5,4/29,4/29,0,0,0,138
+Sumit Narwal,False,,RR,Rajasthan Royals,5,5,185,31,37.0,18.8,11.8,15,2,0,5,3/36,3/36,0,0,0,90
+Andrew McDonald,False,,DC,Delhi Capitals,4,4,138,21,27.6,16.8,9.85,14,3,2,5,2/25,2/25,0,0,0,84
+Charl Langeveldt,False,,KKR,Kolkata Knight Riders,3,3,88,26,17.6,13.2,8.0,11,0,0,5,3/15,3/15,0,0,0,66
+Ajit Agarkar,False,,KKR,Kolkata Knight Riders,7,7,203,40,50.75,33.0,9.22,22,4,0,4,3/25,3/25,0,0,0,132
+Chris Gayle,False,,KKR,Kolkata Knight Riders,9,6,152,29,38.0,24.0,9.5,16,30,16,4,3/21,3/21,0,0,0,96
+Dimitri Mascarenhas,False,,RR,Rajasthan Royals,2,2,65,16,16.25,12.0,8.12,8,0,0,4,5/25,5/25,0,0,0,48
+Dwayne Bravo,False,,MI,Mumbai Indians,10,10,228,48,57.0,39.25,8.71,26,3,4,4,4/22,4/22,0,0,0,156
+Sarabjit Ladda,False,,DC,Delhi Capitals,5,5,143,34,35.75,22.5,9.53,15,0,0,4,2/44,2/44,0,0,0,90
+Ryan McLaren,False,,MI,Mumbai Indians,10,10,270,69,67.5,51.0,7.94,34,7,0,4,2/28,2/28,0,0,0,204
+Jaydev Unadkat,False,,KKR,Kolkata Knight Riders,3,3,85,20,21.25,15.5,8.22,10,0,0,4,5/25,5/25,0,0,0,60
+Munaf Patel,False,,RR,Rajasthan Royals,4,4,118,31,39.33,26.0,9.07,13,0,0,3,5/21,5/21,0,0,0,78
+Virender Sehwag,False,,DC,Delhi Capitals,14,3,23,18,7.66,11.33,4.05,5,47,14,3,2/18,2/18,0,0,0,30
+Ali Murtaza,False,,MI,Mumbai Indians,3,3,91,23,30.33,24.0,7.58,12,0,0,3,3/15,3/15,0,0,0,72
+Tillakaratne Dilshan,False,,DC,Delhi Capitals,6,4,70,18,23.33,16.33,8.57,8,6,0,3,1/30,1/30,0,0,0,48
+Bipul Sharma,False,,PBKS,Punjab Kings,5,4,94,14,31.33,20.0,9.4,10,1,0,3,2/13,2/13,0,0,0,60
+Shanthakumaran Sreesanth,False,,PBKS,Punjab Kings,6,6,191,44,63.66,38.0,10.05,19,5,0,3,3/29,3/29,0,0,0,114
+JM Kemp,False,,CSK,Chennai Super Kings,5,5,54,15,18.0,14.66,7.36,7,1,1,3,3/12,3/12,0,0,0,42
+Ramesh Powar,False,,PBKS,Punjab Kings,7,7,160,62,53.33,46.0,6.95,23,0,0,3,2/11,2/11,0,0,0,138
+Rajat Bhatia,False,,DC,Delhi Capitals,5,5,132,23,44.0,32.0,8.25,16,1,2,3,4/15,4/15,0,0,0,96
+Love Ablish,False,,PBKS,Punjab Kings,2,2,36,7,12.0,8.0,9.0,4,0,0,3,2/17,2/17,0,0,0,24
+Laxmi Ratan Shukla,False,,KKR,Kolkata Knight Riders,4,4,106,19,35.33,24.0,8.83,12,3,2,3,3/25,3/25,0,0,0,72
+Kamran Khan,False,,RR,Rajasthan Royals,3,3,53,18,17.66,12.0,8.83,6,0,0,3,3/18,3/18,0,0,0,36
+Kevin Pietersen,False,,RCB,Royal Challengers Bangalore,7,6,77,18,25.66,20.0,7.7,10,23,8,3,2/31,2/31,0,0,0,60
+Roelof van der Merwe,False,,RCB,Royal Challengers Bangalore,1,1,27,8,13.5,12.0,6.75,4,0,0,2,3/20,3/20,0,0,0,24
+Ajantha Mendis,False,,KKR,Kolkata Knight Riders,2,2,66,12,33.0,24.0,8.25,8,0,0,2,2/19,2/19,0,0,0,48
+Mitchell Marsh,False,,DEC,Deccan Chargers,3,3,88,24,44.0,30.0,8.8,10,1,1,2,4/25,4/25,0,0,0,60
+Amit Uniyal,False,,RR,Rajasthan Royals,2,2,66,8,33.0,18.0,11.0,6,0,0,2,2/41,2/41,0,0,0,36
+Pankaj Singh,False,,RCB,Royal Challengers Bangalore,2,2,81,21,40.5,24.0,10.12,8,0,0,2,2/18,2/18,1,0,0,48
+Brad Hodge,False,,KKR,Kolkata Knight Riders,4,4,41,8,20.5,15.0,8.2,5,11,1,2,4/13,4/13,0,0,0,30
+Joginder Sharma,False,,CSK,Chennai Super Kings,3,3,89,14,44.5,24.0,11.12,8,0,0,2,2/27,2/27,0,0,0,48
+Rajagopal Sathish,False,,MI,Mumbai Indians,12,4,81,14,40.5,24.0,10.12,8,11,0,2,1/11,1/11,0,0,0,48
+Sanath Jayasuriya,False,,MI,Mumbai Indians,4,4,68,19,34.0,27.0,7.55,9,4,1,2,3/14,3/14,0,0,0,54
+Rohit Sharma,False,,DEC,Deccan Chargers,16,9,153,33,76.5,57.0,8.05,19,36,14,2,4/6,4/6,0,0,0,114
+Daniel Vettori,False,,DC,Delhi Capitals,3,3,97,21,48.5,35.0,8.31,11,4,0,2,3/15,3/15,0,0,0,66
+Iqbal Abdulla,False,,KKR,Kolkata Knight Riders,3,3,61,18,61.0,51.0,7.17,8,0,0,1,3/24,3/24,0,0,0,48
+Abhimanyu Mithun,False,,RCB,Royal Challengers Bangalore,1,1,39,2,39.0,18.0,13.0,3,0,0,1,2/37,2/37,0,0,0,18
+Moises Henriques,False,,DC,Delhi Capitals,1,1,35,10,35.0,24.0,8.75,4,2,0,1,3/12,3/12,0,0,0,24
+Yusuf Abdulla,False,,PBKS,Punjab Kings,2,2,66,13,66.0,41.0,9.65,7,0,0,1,4/31,4/31,0,0,0,42
+Yo Mahesh,False,,DC,Delhi Capitals,1,1,23,5,23.0,18.0,7.66,3,0,0,1,4/36,4/36,0,0,0,18
+Manpreet Gony,False,,CSK,Chennai Super Kings,3,3,92,17,92.0,48.0,11.5,8,0,0,1,3/31,3/31,0,0,0,48
+Vikramjeet Malik,False,,PBKS,Punjab Kings,3,3,62,16,62.0,43.0,8.65,7,1,0,1,2/14,2/14,0,0,0,42
+Nayan Doshi,False,,RCB,Royal Challengers Bangalore,1,1,17,14,17.0,24.0,4.25,4,0,0,1,1/15,1/15,0,0,0,24
+Dwayne Smith,False,,DEC,Deccan Chargers,3,2,36,6,36.0,23.0,9.39,4,1,1,1,4/8,4/8,0,0,0,24
+Sudeep Tyagi,False,,CSK,Chennai Super Kings,6,6,159,34,159.0,95.0,10.04,16,0,0,1,2/18,2/18,0,0,0,96
+JP Duminy,False,,MI,Mumbai Indians,7,2,37,13,37.0,33.0,6.72,5,13,5,1,4/17,4/17,0,0,0,30
+KP Appanna,False,,RCB,Royal Challengers Bangalore,2,2,51,15,51.0,42.0,7.28,7,0,0,1,4/19,4/19,0,0,0,42
+Dhawal Kulkarni,False,,MI,Mumbai Indians,1,1,40,10,40.0,24.0,10.0,4,0,0,1,4/14,4/14,0,0,0,24
